@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Berat"@eng-Latn ,
         "Berat"@sqi-Latn ;
-    wdata:q7200235 "AL01" ;
+    wdata:Q7200235 "AL01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shkoder"@eng-Latn ,
         "Shkodër"@sqi-Latn ;
-    wdata:q7200235 "AL10" ;
+    wdata:Q7200235 "AL10" ;
 .
 
 <urn:mdciii:1603:16:8:1:11>
@@ -73,7 +73,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tirane"@eng-Latn ,
         "Tiranë"@sqi-Latn ;
-    wdata:q7200235 "AL11" ;
+    wdata:Q7200235 "AL11" ;
 .
 
 <urn:mdciii:1603:16:8:1:12>
@@ -86,7 +86,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vlore"@eng-Latn ,
         "Vlorë"@sqi-Latn ;
-    wdata:q7200235 "AL12" ;
+    wdata:Q7200235 "AL12" ;
 .
 
 <urn:mdciii:1603:16:8:1:2>
@@ -99,7 +99,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Diber"@eng-Latn ,
         "Dibër"@sqi-Latn ;
-    wdata:q7200235 "AL02" ;
+    wdata:Q7200235 "AL02" ;
 .
 
 <urn:mdciii:1603:16:8:1:3>
@@ -112,7 +112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Durres"@eng-Latn ,
         "Durrës"@sqi-Latn ;
-    wdata:q7200235 "AL03" ;
+    wdata:Q7200235 "AL03" ;
 .
 
 <urn:mdciii:1603:16:8:1:4>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Elbasan"@eng-Latn ,
         "Elbasan"@sqi-Latn ;
-    wdata:q7200235 "AL04" ;
+    wdata:Q7200235 "AL04" ;
 .
 
 <urn:mdciii:1603:16:8:1:5>
@@ -138,7 +138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fier"@eng-Latn ,
         "Fier"@sqi-Latn ;
-    wdata:q7200235 "AL05" ;
+    wdata:Q7200235 "AL05" ;
 .
 
 <urn:mdciii:1603:16:8:1:6>
@@ -151,7 +151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjirokaster"@eng-Latn ,
         "Gjirokastër"@sqi-Latn ;
-    wdata:q7200235 "AL06" ;
+    wdata:Q7200235 "AL06" ;
 .
 
 <urn:mdciii:1603:16:8:1:7>
@@ -164,7 +164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Korce"@eng-Latn ,
         "Korçë"@sqi-Latn ;
-    wdata:q7200235 "AL07" ;
+    wdata:Q7200235 "AL07" ;
 .
 
 <urn:mdciii:1603:16:8:1:8>
@@ -177,7 +177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kukes"@eng-Latn ,
         "Kukës"@sqi-Latn ;
-    wdata:q7200235 "AL08" ;
+    wdata:Q7200235 "AL08" ;
 .
 
 <urn:mdciii:1603:16:8:1:9>
@@ -190,6 +190,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lezhe"@eng-Latn ,
         "Lezhë"@sqi-Latn ;
-    wdata:q7200235 "AL09" ;
+    wdata:Q7200235 "AL09" ;
 .
 

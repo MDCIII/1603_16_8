@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:8()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Berat"@eng-Latn ,
         "Berat"@sqi-Latn ;
-    wdata:q7200235 "AL010101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -417,7 +415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Blerim"@eng-Latn ,
         "Blerim"@sqi-Latn ;
-    wdata:q7200235 "AL100101" ;
 .
 
 <urn:mdciii:1603:16:8:3:100102>
@@ -428,7 +425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fierze"@eng-Latn ,
         "Fierzë"@sqi-Latn ;
-    wdata:q7200235 "AL100102" ;
 .
 
 <urn:mdciii:1603:16:8:3:100103>
@@ -439,7 +435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fushe Arrez"@eng-Latn ,
         "Fushë Arrëz"@sqi-Latn ;
-    wdata:q7200235 "AL100103" ;
 .
 
 <urn:mdciii:1603:16:8:3:100104>
@@ -450,7 +445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Iballe"@eng-Latn ,
         "Iballë"@sqi-Latn ;
-    wdata:q7200235 "AL100104" ;
 .
 
 <urn:mdciii:1603:16:8:3:100105>
@@ -461,7 +455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qafe Mali"@eng-Latn ,
         "Qafë Mali"@sqi-Latn ;
-    wdata:q7200235 "AL100105" ;
 .
 
 <urn:mdciii:1603:16:8:3:100201>
@@ -472,7 +465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gruemire"@eng-Latn ,
         "Gruemirë"@sqi-Latn ;
-    wdata:q7200235 "AL100201" ;
 .
 
 <urn:mdciii:1603:16:8:3:100203>
@@ -483,7 +475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kastrat"@eng-Latn ,
         "Kastrat"@sqi-Latn ;
-    wdata:q7200235 "AL100203" ;
 .
 
 <urn:mdciii:1603:16:8:3:100204>
@@ -494,7 +485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kelmend"@eng-Latn ,
         "Kelmend"@sqi-Latn ;
-    wdata:q7200235 "AL100204" ;
 .
 
 <urn:mdciii:1603:16:8:3:100205>
@@ -505,7 +495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Koplik"@eng-Latn ,
         "Koplik"@sqi-Latn ;
-    wdata:q7200235 "AL100205" ;
 .
 
 <urn:mdciii:1603:16:8:3:100206>
@@ -516,7 +505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL100206" ;
 .
 
 <urn:mdciii:1603:16:8:3:100207>
@@ -527,7 +515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shkrel"@eng-Latn ,
         "Shkrel"@sqi-Latn ;
-    wdata:q7200235 "AL100207" ;
 .
 
 <urn:mdciii:1603:16:8:3:100301>
@@ -538,7 +525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjegjan"@eng-Latn ,
         "Gjegjan"@sqi-Latn ;
-    wdata:q7200235 "AL100301" ;
 .
 
 <urn:mdciii:1603:16:8:3:100302>
@@ -549,7 +535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Puke"@eng-Latn ,
         "Pukë"@sqi-Latn ;
-    wdata:q7200235 "AL100302" ;
 .
 
 <urn:mdciii:1603:16:8:3:100303>
@@ -560,7 +545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qelez"@eng-Latn ,
         "Qelëz"@sqi-Latn ;
-    wdata:q7200235 "AL100303" ;
 .
 
 <urn:mdciii:1603:16:8:3:100304>
@@ -571,7 +555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qerret"@eng-Latn ,
         "Qerret"@sqi-Latn ;
-    wdata:q7200235 "AL100304" ;
 .
 
 <urn:mdciii:1603:16:8:3:100305>
@@ -582,7 +565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rrape"@eng-Latn ,
         "Rrapë"@sqi-Latn ;
-    wdata:q7200235 "AL100305" ;
 .
 
 <urn:mdciii:1603:16:8:3:100401>
@@ -593,7 +575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ana e Malit"@eng-Latn ,
         "Ana e Malit"@sqi-Latn ;
-    wdata:q7200235 "AL100401" ;
 .
 
 <urn:mdciii:1603:16:8:3:100402>
@@ -604,7 +585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Berdice"@eng-Latn ,
         "Berdicë"@sqi-Latn ;
-    wdata:q7200235 "AL100402" ;
 .
 
 <urn:mdciii:1603:16:8:3:100403>
@@ -615,7 +595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dajc"@eng-Latn ,
         "Dajç"@sqi-Latn ;
-    wdata:q7200235 "AL100403" ;
 .
 
 <urn:mdciii:1603:16:8:3:100404>
@@ -626,7 +605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gur i Zi"@eng-Latn ,
         "Gur i Zi"@sqi-Latn ;
-    wdata:q7200235 "AL100404" ;
 .
 
 <urn:mdciii:1603:16:8:3:100405>
@@ -637,7 +615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Postribe"@eng-Latn ,
         "Postribë"@sqi-Latn ;
-    wdata:q7200235 "AL100405" ;
 .
 
 <urn:mdciii:1603:16:8:3:100406>
@@ -648,7 +625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pult"@eng-Latn ,
         "Pult"@sqi-Latn ;
-    wdata:q7200235 "AL100406" ;
 .
 
 <urn:mdciii:1603:16:8:3:100407>
@@ -659,7 +635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rrethina"@eng-Latn ,
         "Rrethina"@sqi-Latn ;
-    wdata:q7200235 "AL100407" ;
 .
 
 <urn:mdciii:1603:16:8:3:100408>
@@ -670,7 +645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shale"@eng-Latn ,
         "Shalë"@sqi-Latn ;
-    wdata:q7200235 "AL100408" ;
 .
 
 <urn:mdciii:1603:16:8:3:100409>
@@ -681,7 +655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shkoder"@eng-Latn ,
         "Shkodër"@sqi-Latn ;
-    wdata:q7200235 "AL100409" ;
 .
 
 <urn:mdciii:1603:16:8:3:100410>
@@ -692,7 +665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shosh"@eng-Latn ,
         "Shosh"@sqi-Latn ;
-    wdata:q7200235 "AL100410" ;
 .
 
 <urn:mdciii:1603:16:8:3:100411>
@@ -703,7 +675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Velipoje"@eng-Latn ,
         "Velipojë"@sqi-Latn ;
-    wdata:q7200235 "AL100411" ;
 .
 
 <urn:mdciii:1603:16:8:3:100501>
@@ -714,7 +685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Barbullush"@eng-Latn ,
         "Barbullush"@sqi-Latn ;
-    wdata:q7200235 "AL100501" ;
 .
 
 <urn:mdciii:1603:16:8:3:100502>
@@ -725,7 +695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bushat"@eng-Latn ,
         "Bushat"@sqi-Latn ;
-    wdata:q7200235 "AL100502" ;
 .
 
 <urn:mdciii:1603:16:8:3:100503>
@@ -736,7 +705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hajmel"@eng-Latn ,
         "Hajmel"@sqi-Latn ;
-    wdata:q7200235 "AL100503" ;
 .
 
 <urn:mdciii:1603:16:8:3:100504>
@@ -747,7 +715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shllak"@eng-Latn ,
         "Shllak"@sqi-Latn ;
-    wdata:q7200235 "AL100504" ;
 .
 
 <urn:mdciii:1603:16:8:3:100505>
@@ -758,7 +725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Temal"@eng-Latn ,
         "Temal"@sqi-Latn ;
-    wdata:q7200235 "AL100505" ;
 .
 
 <urn:mdciii:1603:16:8:3:100506>
@@ -769,7 +735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vau i Dejes"@eng-Latn ,
         "Vau i Dejës"@sqi-Latn ;
-    wdata:q7200235 "AL100506" ;
 .
 
 <urn:mdciii:1603:16:8:3:100507>
@@ -780,7 +745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vig Mnele"@eng-Latn ,
         "Vig Mnelë"@sqi-Latn ;
-    wdata:q7200235 "AL100507" ;
 .
 
 <urn:mdciii:1603:16:8:3:10102>
@@ -791,7 +755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Otllak"@eng-Latn ,
         "Otllak"@sqi-Latn ;
-    wdata:q7200235 "AL010102" ;
 .
 
 <urn:mdciii:1603:16:8:3:10103>
@@ -802,7 +765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Roshnik"@eng-Latn ,
         "Roshnik"@sqi-Latn ;
-    wdata:q7200235 "AL010103" ;
 .
 
 <urn:mdciii:1603:16:8:3:10104>
@@ -813,7 +775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sinje"@eng-Latn ,
         "Sinjë"@sqi-Latn ;
-    wdata:q7200235 "AL010104" ;
 .
 
 <urn:mdciii:1603:16:8:3:10105>
@@ -824,7 +785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Velabisht"@eng-Latn ,
         "Velabisht"@sqi-Latn ;
-    wdata:q7200235 "AL010105" ;
 .
 
 <urn:mdciii:1603:16:8:3:10201>
@@ -835,7 +795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kozare"@eng-Latn ,
         "Kozarë"@sqi-Latn ;
-    wdata:q7200235 "AL010201" ;
 .
 
 <urn:mdciii:1603:16:8:3:10202>
@@ -846,7 +805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kucove"@eng-Latn ,
         "Kuçovë"@sqi-Latn ;
-    wdata:q7200235 "AL010202" ;
 .
 
 <urn:mdciii:1603:16:8:3:10203>
@@ -857,7 +815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lumas"@eng-Latn ,
         "Lumas"@sqi-Latn ;
-    wdata:q7200235 "AL010203" ;
 .
 
 <urn:mdciii:1603:16:8:3:10204>
@@ -868,7 +825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Perondi"@eng-Latn ,
         "Perondi"@sqi-Latn ;
-    wdata:q7200235 "AL010204" ;
 .
 
 <urn:mdciii:1603:16:8:3:10301>
@@ -879,7 +835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Polican"@eng-Latn ,
         "Poliçan"@sqi-Latn ;
-    wdata:q7200235 "AL010301" ;
 .
 
 <urn:mdciii:1603:16:8:3:10302>
@@ -890,7 +845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Terpan"@eng-Latn ,
         "Tërpan"@sqi-Latn ;
-    wdata:q7200235 "AL010302" ;
 .
 
 <urn:mdciii:1603:16:8:3:10303>
@@ -901,7 +855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vertop"@eng-Latn ,
         "Vertop"@sqi-Latn ;
-    wdata:q7200235 "AL010303" ;
 .
 
 <urn:mdciii:1603:16:8:3:10401>
@@ -912,7 +865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bogove"@eng-Latn ,
         "Bogovë"@sqi-Latn ;
-    wdata:q7200235 "AL010401" ;
 .
 
 <urn:mdciii:1603:16:8:3:10402>
@@ -923,7 +875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cepan"@eng-Latn ,
         "Çepan"@sqi-Latn ;
-    wdata:q7200235 "AL010402" ;
 .
 
 <urn:mdciii:1603:16:8:3:10403>
@@ -934,7 +885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Corovode"@eng-Latn ,
         "Çorovodë"@sqi-Latn ;
-    wdata:q7200235 "AL010403" ;
 .
 
 <urn:mdciii:1603:16:8:3:10404>
@@ -945,7 +895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjerbes"@eng-Latn ,
         "Gjerbes"@sqi-Latn ;
-    wdata:q7200235 "AL010404" ;
 .
 
 <urn:mdciii:1603:16:8:3:10405>
@@ -956,7 +905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Leshnje"@eng-Latn ,
         "Leshnjë"@sqi-Latn ;
-    wdata:q7200235 "AL010405" ;
 .
 
 <urn:mdciii:1603:16:8:3:10406>
@@ -967,7 +915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Potom"@eng-Latn ,
         "Potom"@sqi-Latn ;
-    wdata:q7200235 "AL010406" ;
 .
 
 <urn:mdciii:1603:16:8:3:10407>
@@ -978,7 +925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL010407" ;
 .
 
 <urn:mdciii:1603:16:8:3:10408>
@@ -989,7 +935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vendreshe"@eng-Latn ,
         "Vendreshë"@sqi-Latn ;
-    wdata:q7200235 "AL010408" ;
 .
 
 <urn:mdciii:1603:16:8:3:10409>
@@ -1000,7 +945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhepe"@eng-Latn ,
         "Zhepë"@sqi-Latn ;
-    wdata:q7200235 "AL010409" ;
 .
 
 <urn:mdciii:1603:16:8:3:10501>
@@ -1011,7 +955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cukalat"@eng-Latn ,
         "Cukalat"@sqi-Latn ;
-    wdata:q7200235 "AL010501" ;
 .
 
 <urn:mdciii:1603:16:8:3:10502>
@@ -1022,7 +965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kutalli"@eng-Latn ,
         "Kutalli"@sqi-Latn ;
-    wdata:q7200235 "AL010502" ;
 .
 
 <urn:mdciii:1603:16:8:3:10503>
@@ -1033,7 +975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Poshnje"@eng-Latn ,
         "Poshnjë"@sqi-Latn ;
-    wdata:q7200235 "AL010503" ;
 .
 
 <urn:mdciii:1603:16:8:3:10504>
@@ -1044,7 +985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ura Vajgurore"@eng-Latn ,
         "Ura Vajgurorë"@sqi-Latn ;
-    wdata:q7200235 "AL010504" ;
 .
 
 <urn:mdciii:1603:16:8:3:110101>
@@ -1055,7 +995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kamez"@eng-Latn ,
         "Kamëz"@sqi-Latn ;
-    wdata:q7200235 "AL110101" ;
 .
 
 <urn:mdciii:1603:16:8:3:110102>
@@ -1066,7 +1005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Paskuqan"@eng-Latn ,
         "Paskuqan"@sqi-Latn ;
-    wdata:q7200235 "AL110102" ;
 .
 
 <urn:mdciii:1603:16:8:3:110201>
@@ -1077,7 +1015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Golem"@eng-Latn ,
         "Golem"@sqi-Latn ;
-    wdata:q7200235 "AL110201" ;
 .
 
 <urn:mdciii:1603:16:8:3:110202>
@@ -1088,7 +1025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Helmes"@eng-Latn ,
         "Helmes"@sqi-Latn ;
-    wdata:q7200235 "AL110202" ;
 .
 
 <urn:mdciii:1603:16:8:3:110203>
@@ -1099,7 +1035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kavaje"@eng-Latn ,
         "Kavajë"@sqi-Latn ;
-    wdata:q7200235 "AL110203" ;
 .
 
 <urn:mdciii:1603:16:8:3:110204>
@@ -1110,7 +1045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luz i Vogel"@eng-Latn ,
         "Luz i Vogël"@sqi-Latn ;
-    wdata:q7200235 "AL110204" ;
 .
 
 <urn:mdciii:1603:16:8:3:110205>
@@ -1121,7 +1055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Synej"@eng-Latn ,
         "Synej"@sqi-Latn ;
-    wdata:q7200235 "AL110205" ;
 .
 
 <urn:mdciii:1603:16:8:3:110301>
@@ -1132,7 +1065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gose"@eng-Latn ,
         "Gosë"@sqi-Latn ;
-    wdata:q7200235 "AL110301" ;
 .
 
 <urn:mdciii:1603:16:8:3:110302>
@@ -1143,7 +1075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kryevidh"@eng-Latn ,
         "Kryevidh"@sqi-Latn ;
-    wdata:q7200235 "AL110302" ;
 .
 
 <urn:mdciii:1603:16:8:3:110303>
@@ -1154,7 +1085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lekaj"@eng-Latn ,
         "Lekaj"@sqi-Latn ;
-    wdata:q7200235 "AL110303" ;
 .
 
 <urn:mdciii:1603:16:8:3:110304>
@@ -1165,7 +1095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rrogozhine"@eng-Latn ,
         "Rrogozhinë"@sqi-Latn ;
-    wdata:q7200235 "AL110304" ;
 .
 
 <urn:mdciii:1603:16:8:3:110305>
@@ -1176,7 +1105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sinaballaj"@eng-Latn ,
         "Sinaballaj"@sqi-Latn ;
-    wdata:q7200235 "AL110305" ;
 .
 
 <urn:mdciii:1603:16:8:3:110401>
@@ -1187,7 +1115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Berxulle"@eng-Latn ,
         "Bërxullë"@sqi-Latn ;
-    wdata:q7200235 "AL110401" ;
 .
 
 <urn:mdciii:1603:16:8:3:110402>
@@ -1198,7 +1125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Preze"@eng-Latn ,
         "Prezë"@sqi-Latn ;
-    wdata:q7200235 "AL110402" ;
 .
 
 <urn:mdciii:1603:16:8:3:110403>
@@ -1209,7 +1135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vore"@eng-Latn ,
         "Vorë"@sqi-Latn ;
-    wdata:q7200235 "AL110403" ;
 .
 
 <urn:mdciii:1603:16:8:3:110501>
@@ -1220,7 +1145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baldushk"@eng-Latn ,
         "Baldushk"@sqi-Latn ;
-    wdata:q7200235 "AL110501" ;
 .
 
 <urn:mdciii:1603:16:8:3:110502>
@@ -1231,7 +1155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Berzhite"@eng-Latn ,
         "Bërzhitë"@sqi-Latn ;
-    wdata:q7200235 "AL110502" ;
 .
 
 <urn:mdciii:1603:16:8:3:110503>
@@ -1242,7 +1165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dajt"@eng-Latn ,
         "Dajt"@sqi-Latn ;
-    wdata:q7200235 "AL110503" ;
 .
 
 <urn:mdciii:1603:16:8:3:110504>
@@ -1253,7 +1175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Farke"@eng-Latn ,
         "Farkë"@sqi-Latn ;
-    wdata:q7200235 "AL110504" ;
 .
 
 <urn:mdciii:1603:16:8:3:110505>
@@ -1264,7 +1185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kashar"@eng-Latn ,
         "Kashar"@sqi-Latn ;
-    wdata:q7200235 "AL110505" ;
 .
 
 <urn:mdciii:1603:16:8:3:110506>
@@ -1275,7 +1195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krrabe"@eng-Latn ,
         "Krrabë"@sqi-Latn ;
-    wdata:q7200235 "AL110506" ;
 .
 
 <urn:mdciii:1603:16:8:3:110507>
@@ -1286,7 +1205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ndroq"@eng-Latn ,
         "Ndroq"@sqi-Latn ;
-    wdata:q7200235 "AL110507" ;
 .
 
 <urn:mdciii:1603:16:8:3:110508>
@@ -1297,7 +1215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petrele"@eng-Latn ,
         "Petrelë"@sqi-Latn ;
-    wdata:q7200235 "AL110508" ;
 .
 
 <urn:mdciii:1603:16:8:3:110509>
@@ -1308,7 +1225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Peze"@eng-Latn ,
         "Pezë"@sqi-Latn ;
-    wdata:q7200235 "AL110509" ;
 .
 
 <urn:mdciii:1603:16:8:3:110510>
@@ -1319,7 +1235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shengjergj"@eng-Latn ,
         "Shëngjergj"@sqi-Latn ;
-    wdata:q7200235 "AL110510" ;
 .
 
 <urn:mdciii:1603:16:8:3:110511>
@@ -1330,7 +1245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tirane"@eng-Latn ,
         "Tiranë"@sqi-Latn ;
-    wdata:q7200235 "AL110511" ;
 .
 
 <urn:mdciii:1603:16:8:3:110512>
@@ -1341,7 +1255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vaqarr"@eng-Latn ,
         "Vaqarr"@sqi-Latn ;
-    wdata:q7200235 "AL110512" ;
 .
 
 <urn:mdciii:1603:16:8:3:110513>
@@ -1352,7 +1265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zall Bastar"@eng-Latn ,
         "Zall Bastar"@sqi-Latn ;
-    wdata:q7200235 "AL110513" ;
 .
 
 <urn:mdciii:1603:16:8:3:110514>
@@ -1363,7 +1275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zall Herr"@eng-Latn ,
         "Zall Herr"@sqi-Latn ;
-    wdata:q7200235 "AL110514" ;
 .
 
 <urn:mdciii:1603:16:8:3:120101>
@@ -1374,7 +1285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delvine"@eng-Latn ,
         "Delvinë"@sqi-Latn ;
-    wdata:q7200235 "AL120101" ;
 .
 
 <urn:mdciii:1603:16:8:3:120102>
@@ -1385,7 +1295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vergo"@eng-Latn ,
         "Vergo"@sqi-Latn ;
-    wdata:q7200235 "AL120102" ;
 .
 
 <urn:mdciii:1603:16:8:3:120201>
@@ -1396,7 +1305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aliko"@eng-Latn ,
         "Aliko"@sqi-Latn ;
-    wdata:q7200235 "AL120201" ;
 .
 
 <urn:mdciii:1603:16:8:3:120202>
@@ -1407,7 +1315,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dhiver"@eng-Latn ,
         "Dhivër"@sqi-Latn ;
-    wdata:q7200235 "AL120202" ;
 .
 
 <urn:mdciii:1603:16:8:3:120203>
@@ -1418,7 +1325,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Finiq"@eng-Latn ,
         "Finiq"@sqi-Latn ;
-    wdata:q7200235 "AL120203" ;
 .
 
 <urn:mdciii:1603:16:8:3:120204>
@@ -1429,7 +1335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Livadhja"@eng-Latn ,
         "Livadhja"@sqi-Latn ;
-    wdata:q7200235 "AL120204" ;
 .
 
 <urn:mdciii:1603:16:8:3:120205>
@@ -1440,7 +1345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mesopotam"@eng-Latn ,
         "Mesopotam"@sqi-Latn ;
-    wdata:q7200235 "AL120205" ;
 .
 
 <urn:mdciii:1603:16:8:3:120301>
@@ -1451,7 +1355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Himare"@eng-Latn ,
         "Himarë"@sqi-Latn ;
-    wdata:q7200235 "AL120301" ;
 .
 
 <urn:mdciii:1603:16:8:3:120302>
@@ -1462,7 +1365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hore Vranisht"@eng-Latn ,
         "Hore Vranisht"@sqi-Latn ;
-    wdata:q7200235 "AL120302" ;
 .
 
 <urn:mdciii:1603:16:8:3:120303>
@@ -1473,7 +1375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lukove"@eng-Latn ,
         "Lukovë"@sqi-Latn ;
-    wdata:q7200235 "AL120303" ;
 .
 
 <urn:mdciii:1603:16:8:3:120401>
@@ -1484,7 +1385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Konispol"@eng-Latn ,
         "Konispol"@sqi-Latn ;
-    wdata:q7200235 "AL120401" ;
 .
 
 <urn:mdciii:1603:16:8:3:120402>
@@ -1495,7 +1395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Markat"@eng-Latn ,
         "Markat"@sqi-Latn ;
-    wdata:q7200235 "AL120402" ;
 .
 
 <urn:mdciii:1603:16:8:3:120403>
@@ -1506,7 +1405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xarre"@eng-Latn ,
         "Xarrë"@sqi-Latn ;
-    wdata:q7200235 "AL120403" ;
 .
 
 <urn:mdciii:1603:16:8:3:120501>
@@ -1517,7 +1415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ksamil"@eng-Latn ,
         "Ksamil"@sqi-Latn ;
-    wdata:q7200235 "AL120501" ;
 .
 
 <urn:mdciii:1603:16:8:3:120502>
@@ -1528,7 +1425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sarande"@eng-Latn ,
         "Sarandë"@sqi-Latn ;
-    wdata:q7200235 "AL120502" ;
 .
 
 <urn:mdciii:1603:16:8:3:120601>
@@ -1539,7 +1435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Armen"@eng-Latn ,
         "Armen"@sqi-Latn ;
-    wdata:q7200235 "AL120601" ;
 .
 
 <urn:mdciii:1603:16:8:3:120602>
@@ -1550,7 +1445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Brataj"@eng-Latn ,
         "Brataj"@sqi-Latn ;
-    wdata:q7200235 "AL120602" ;
 .
 
 <urn:mdciii:1603:16:8:3:120603>
@@ -1561,7 +1455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kote"@eng-Latn ,
         "Kotë"@sqi-Latn ;
-    wdata:q7200235 "AL120603" ;
 .
 
 <urn:mdciii:1603:16:8:3:120604>
@@ -1572,7 +1465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Selenice"@eng-Latn ,
         "Selenicë"@sqi-Latn ;
-    wdata:q7200235 "AL120604" ;
 .
 
 <urn:mdciii:1603:16:8:3:120605>
@@ -1583,7 +1475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sevaster"@eng-Latn ,
         "Sevaster"@sqi-Latn ;
-    wdata:q7200235 "AL120605" ;
 .
 
 <urn:mdciii:1603:16:8:3:120606>
@@ -1594,7 +1485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vllahine"@eng-Latn ,
         "Vllahinë"@sqi-Latn ;
-    wdata:q7200235 "AL120606" ;
 .
 
 <urn:mdciii:1603:16:8:3:120701>
@@ -1605,7 +1495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Novosele"@eng-Latn ,
         "Novoselë"@sqi-Latn ;
-    wdata:q7200235 "AL120701" ;
 .
 
 <urn:mdciii:1603:16:8:3:120702>
@@ -1616,7 +1505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orikum"@eng-Latn ,
         "Orikum"@sqi-Latn ;
-    wdata:q7200235 "AL120702" ;
 .
 
 <urn:mdciii:1603:16:8:3:120703>
@@ -1627,7 +1515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL120703" ;
 .
 
 <urn:mdciii:1603:16:8:3:120704>
@@ -1638,7 +1525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shushice"@eng-Latn ,
         "Shushicë"@sqi-Latn ;
-    wdata:q7200235 "AL120704" ;
 .
 
 <urn:mdciii:1603:16:8:3:120705>
@@ -1649,7 +1535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vlore"@eng-Latn ,
         "Vlorë"@sqi-Latn ;
-    wdata:q7200235 "AL120705" ;
 .
 
 <urn:mdciii:1603:16:8:3:20101>
@@ -1660,7 +1545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bulqize"@eng-Latn ,
         "Bulqizë"@sqi-Latn ;
-    wdata:q7200235 "AL020101" ;
 .
 
 <urn:mdciii:1603:16:8:3:20102>
@@ -1671,7 +1555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fushe Bulqize"@eng-Latn ,
         "Fushë Bulqizë"@sqi-Latn ;
-    wdata:q7200235 "AL020102" ;
 .
 
 <urn:mdciii:1603:16:8:3:20103>
@@ -1682,7 +1565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjorice"@eng-Latn ,
         "Gjoricë"@sqi-Latn ;
-    wdata:q7200235 "AL020103" ;
 .
 
 <urn:mdciii:1603:16:8:3:20104>
@@ -1693,7 +1575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Martanesh"@eng-Latn ,
         "Martanesh"@sqi-Latn ;
-    wdata:q7200235 "AL020104" ;
 .
 
 <urn:mdciii:1603:16:8:3:20105>
@@ -1704,7 +1585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ostren"@eng-Latn ,
         "Ostren"@sqi-Latn ;
-    wdata:q7200235 "AL020105" ;
 .
 
 <urn:mdciii:1603:16:8:3:20106>
@@ -1715,7 +1595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shupenze"@eng-Latn ,
         "Shupenzë"@sqi-Latn ;
-    wdata:q7200235 "AL020106" ;
 .
 
 <urn:mdciii:1603:16:8:3:20107>
@@ -1726,7 +1605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trebisht"@eng-Latn ,
         "Trebisht"@sqi-Latn ;
-    wdata:q7200235 "AL020107" ;
 .
 
 <urn:mdciii:1603:16:8:3:20108>
@@ -1737,7 +1615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zerqan"@eng-Latn ,
         "Zerqan"@sqi-Latn ;
-    wdata:q7200235 "AL020108" ;
 .
 
 <urn:mdciii:1603:16:8:3:20201>
@@ -1748,7 +1625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arras"@eng-Latn ,
         "Arras"@sqi-Latn ;
-    wdata:q7200235 "AL020201" ;
 .
 
 <urn:mdciii:1603:16:8:3:20202>
@@ -1759,7 +1635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fushe Cidhen"@eng-Latn ,
         "Fushë Çidhen"@sqi-Latn ;
-    wdata:q7200235 "AL020202" ;
 .
 
 <urn:mdciii:1603:16:8:3:20203>
@@ -1770,7 +1645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kala e Dodes"@eng-Latn ,
         "Kala e Dodës"@sqi-Latn ;
-    wdata:q7200235 "AL020203" ;
 .
 
 <urn:mdciii:1603:16:8:3:20204>
@@ -1781,7 +1655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kastriot"@eng-Latn ,
         "Kastriot"@sqi-Latn ;
-    wdata:q7200235 "AL020204" ;
 .
 
 <urn:mdciii:1603:16:8:3:20205>
@@ -1792,7 +1665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lure"@eng-Latn ,
         "Lurë"@sqi-Latn ;
-    wdata:q7200235 "AL020205" ;
 .
 
 <urn:mdciii:1603:16:8:3:20206>
@@ -1803,7 +1675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luzni"@eng-Latn ,
         "Luzni"@sqi-Latn ;
-    wdata:q7200235 "AL020206" ;
 .
 
 <urn:mdciii:1603:16:8:3:20207>
@@ -1814,7 +1685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maqellare"@eng-Latn ,
         "Maqellarë"@sqi-Latn ;
-    wdata:q7200235 "AL020207" ;
 .
 
 <urn:mdciii:1603:16:8:3:20208>
@@ -1825,7 +1695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Melan"@eng-Latn ,
         "Melan"@sqi-Latn ;
-    wdata:q7200235 "AL020208" ;
 .
 
 <urn:mdciii:1603:16:8:3:20209>
@@ -1836,7 +1705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muhurr"@eng-Latn ,
         "Muhurr"@sqi-Latn ;
-    wdata:q7200235 "AL020209" ;
 .
 
 <urn:mdciii:1603:16:8:3:20210>
@@ -1847,7 +1715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Peshkopi"@eng-Latn ,
         "Peshkopi"@sqi-Latn ;
-    wdata:q7200235 "AL020210" ;
 .
 
 <urn:mdciii:1603:16:8:3:20211>
@@ -1858,7 +1725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender Tomin"@eng-Latn ,
         "Qendër Tomin"@sqi-Latn ;
-    wdata:q7200235 "AL020211" ;
 .
 
 <urn:mdciii:1603:16:8:3:20212>
@@ -1869,7 +1735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Selishte"@eng-Latn ,
         "Selishtë"@sqi-Latn ;
-    wdata:q7200235 "AL020212" ;
 .
 
 <urn:mdciii:1603:16:8:3:20213>
@@ -1880,7 +1745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sllove"@eng-Latn ,
         "Sllovë"@sqi-Latn ;
-    wdata:q7200235 "AL020213" ;
 .
 
 <urn:mdciii:1603:16:8:3:20214>
@@ -1891,7 +1755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zall Dardhe"@eng-Latn ,
         "Zall Dardhë"@sqi-Latn ;
-    wdata:q7200235 "AL020214" ;
 .
 
 <urn:mdciii:1603:16:8:3:20215>
@@ -1902,7 +1765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zall Rec"@eng-Latn ,
         "Zall Reç"@sqi-Latn ;
-    wdata:q7200235 "AL020215" ;
 .
 
 <urn:mdciii:1603:16:8:3:20301>
@@ -1913,7 +1775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gurre"@eng-Latn ,
         "Gurrë"@sqi-Latn ;
-    wdata:q7200235 "AL020301" ;
 .
 
 <urn:mdciii:1603:16:8:3:20302>
@@ -1924,7 +1785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Klos"@eng-Latn ,
         "Klos"@sqi-Latn ;
-    wdata:q7200235 "AL020302" ;
 .
 
 <urn:mdciii:1603:16:8:3:20303>
@@ -1935,7 +1795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suc"@eng-Latn ,
         "Suç"@sqi-Latn ;
-    wdata:q7200235 "AL020303" ;
 .
 
 <urn:mdciii:1603:16:8:3:20304>
@@ -1946,7 +1805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiber"@eng-Latn ,
         "Xibër"@sqi-Latn ;
-    wdata:q7200235 "AL020304" ;
 .
 
 <urn:mdciii:1603:16:8:3:20401>
@@ -1957,7 +1815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baz"@eng-Latn ,
         "Baz"@sqi-Latn ;
-    wdata:q7200235 "AL020401" ;
 .
 
 <urn:mdciii:1603:16:8:3:20402>
@@ -1968,7 +1825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Burrel"@eng-Latn ,
         "Burrel"@sqi-Latn ;
-    wdata:q7200235 "AL020402" ;
 .
 
 <urn:mdciii:1603:16:8:3:20403>
@@ -1979,7 +1835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Derjan"@eng-Latn ,
         "Derjan"@sqi-Latn ;
-    wdata:q7200235 "AL020403" ;
 .
 
 <urn:mdciii:1603:16:8:3:20404>
@@ -1990,7 +1845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Komsi"@eng-Latn ,
         "Komsi"@sqi-Latn ;
-    wdata:q7200235 "AL020404" ;
 .
 
 <urn:mdciii:1603:16:8:3:20405>
@@ -2001,7 +1855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lis"@eng-Latn ,
         "Lis"@sqi-Latn ;
-    wdata:q7200235 "AL020405" ;
 .
 
 <urn:mdciii:1603:16:8:3:20406>
@@ -2012,7 +1865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Macukull"@eng-Latn ,
         "Macukull"@sqi-Latn ;
-    wdata:q7200235 "AL020406" ;
 .
 
 <urn:mdciii:1603:16:8:3:20407>
@@ -2023,7 +1875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rukaj"@eng-Latn ,
         "Rukaj"@sqi-Latn ;
-    wdata:q7200235 "AL020407" ;
 .
 
 <urn:mdciii:1603:16:8:3:20408>
@@ -2034,7 +1885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulez"@eng-Latn ,
         "Ulëz"@sqi-Latn ;
-    wdata:q7200235 "AL020408" ;
 .
 
 <urn:mdciii:1603:16:8:3:30101>
@@ -2045,7 +1895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Durres"@eng-Latn ,
         "Durrës"@sqi-Latn ;
-    wdata:q7200235 "AL030101" ;
 .
 
 <urn:mdciii:1603:16:8:3:30102>
@@ -2056,7 +1905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ishem"@eng-Latn ,
         "Ishëm"@sqi-Latn ;
-    wdata:q7200235 "AL030102" ;
 .
 
 <urn:mdciii:1603:16:8:3:30103>
@@ -2067,7 +1915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Katund i Ri"@eng-Latn ,
         "Katund i Ri"@sqi-Latn ;
-    wdata:q7200235 "AL030103" ;
 .
 
 <urn:mdciii:1603:16:8:3:30104>
@@ -2078,7 +1925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Manez"@eng-Latn ,
         "Manëz"@sqi-Latn ;
-    wdata:q7200235 "AL030104" ;
 .
 
 <urn:mdciii:1603:16:8:3:30105>
@@ -2089,7 +1935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rrashbull"@eng-Latn ,
         "Rrashbull"@sqi-Latn ;
-    wdata:q7200235 "AL030105" ;
 .
 
 <urn:mdciii:1603:16:8:3:30106>
@@ -2100,7 +1945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sukth"@eng-Latn ,
         "Sukth"@sqi-Latn ;
-    wdata:q7200235 "AL030106" ;
 .
 
 <urn:mdciii:1603:16:8:3:30201>
@@ -2111,7 +1955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bubq"@eng-Latn ,
         "Bubq"@sqi-Latn ;
-    wdata:q7200235 "AL030201" ;
 .
 
 <urn:mdciii:1603:16:8:3:30202>
@@ -2122,7 +1965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cudhi"@eng-Latn ,
         "Cudhi"@sqi-Latn ;
-    wdata:q7200235 "AL030202" ;
 .
 
 <urn:mdciii:1603:16:8:3:30203>
@@ -2133,7 +1975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fushe Kruje"@eng-Latn ,
         "Fushë Krujë"@sqi-Latn ;
-    wdata:q7200235 "AL030203" ;
 .
 
 <urn:mdciii:1603:16:8:3:30204>
@@ -2144,7 +1985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Koder Thumane"@eng-Latn ,
         "Kodër Thumanë"@sqi-Latn ;
-    wdata:q7200235 "AL030204" ;
 .
 
 <urn:mdciii:1603:16:8:3:30205>
@@ -2155,7 +1995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kruje"@eng-Latn ,
         "Krujë"@sqi-Latn ;
-    wdata:q7200235 "AL030205" ;
 .
 
 <urn:mdciii:1603:16:8:3:30206>
@@ -2166,7 +2005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nikel"@eng-Latn ,
         "Nikël"@sqi-Latn ;
-    wdata:q7200235 "AL030206" ;
 .
 
 <urn:mdciii:1603:16:8:3:30301>
@@ -2177,7 +2015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjepalaj"@eng-Latn ,
         "Gjepalaj"@sqi-Latn ;
-    wdata:q7200235 "AL030301" ;
 .
 
 <urn:mdciii:1603:16:8:3:30302>
@@ -2188,7 +2025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maminas"@eng-Latn ,
         "Maminas"@sqi-Latn ;
-    wdata:q7200235 "AL030302" ;
 .
 
 <urn:mdciii:1603:16:8:3:30303>
@@ -2199,7 +2035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shijak"@eng-Latn ,
         "Shijak"@sqi-Latn ;
-    wdata:q7200235 "AL030303" ;
 .
 
 <urn:mdciii:1603:16:8:3:30304>
@@ -2210,7 +2045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xhafzotaj"@eng-Latn ,
         "Xhafzotaj"@sqi-Latn ;
-    wdata:q7200235 "AL030304" ;
 .
 
 <urn:mdciii:1603:16:8:3:40101>
@@ -2221,7 +2055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Belsh"@eng-Latn ,
         "Belsh"@sqi-Latn ;
-    wdata:q7200235 "AL040101" ;
 .
 
 <urn:mdciii:1603:16:8:3:40102>
@@ -2232,7 +2065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fierz"@eng-Latn ,
         "Fierz"@sqi-Latn ;
-    wdata:q7200235 "AL040102" ;
 .
 
 <urn:mdciii:1603:16:8:3:40103>
@@ -2243,7 +2075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grekan"@eng-Latn ,
         "Grekan"@sqi-Latn ;
-    wdata:q7200235 "AL040103" ;
 .
 
 <urn:mdciii:1603:16:8:3:40104>
@@ -2254,7 +2085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kajan"@eng-Latn ,
         "Kajan"@sqi-Latn ;
-    wdata:q7200235 "AL040104" ;
 .
 
 <urn:mdciii:1603:16:8:3:40105>
@@ -2265,7 +2095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rrase"@eng-Latn ,
         "Rrasë"@sqi-Latn ;
-    wdata:q7200235 "AL040105" ;
 .
 
 <urn:mdciii:1603:16:8:3:40201>
@@ -2276,7 +2105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cerrik"@eng-Latn ,
         "Cërrik"@sqi-Latn ;
-    wdata:q7200235 "AL040201" ;
 .
 
 <urn:mdciii:1603:16:8:3:40202>
@@ -2287,7 +2115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gostime"@eng-Latn ,
         "Gostimë"@sqi-Latn ;
-    wdata:q7200235 "AL040202" ;
 .
 
 <urn:mdciii:1603:16:8:3:40203>
@@ -2298,7 +2125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Klos"@eng-Latn ,
         "Klos"@sqi-Latn ;
-    wdata:q7200235 "AL040203" ;
 .
 
 <urn:mdciii:1603:16:8:3:40204>
@@ -2309,7 +2135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mollas"@eng-Latn ,
         "Mollas"@sqi-Latn ;
-    wdata:q7200235 "AL040204" ;
 .
 
 <urn:mdciii:1603:16:8:3:40205>
@@ -2320,7 +2145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shales"@eng-Latn ,
         "Shalës"@sqi-Latn ;
-    wdata:q7200235 "AL040205" ;
 .
 
 <urn:mdciii:1603:16:8:3:40301>
@@ -2331,7 +2155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bradashesh"@eng-Latn ,
         "Bradashesh"@sqi-Latn ;
-    wdata:q7200235 "AL040301" ;
 .
 
 <urn:mdciii:1603:16:8:3:40302>
@@ -2342,7 +2165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Elbasan"@eng-Latn ,
         "Elbasan"@sqi-Latn ;
-    wdata:q7200235 "AL040302" ;
 .
 
 <urn:mdciii:1603:16:8:3:40303>
@@ -2353,7 +2175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Funare"@eng-Latn ,
         "Funarë"@sqi-Latn ;
-    wdata:q7200235 "AL040303" ;
 .
 
 <urn:mdciii:1603:16:8:3:40304>
@@ -2364,7 +2185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjegjan"@eng-Latn ,
         "Gjegjan"@sqi-Latn ;
-    wdata:q7200235 "AL040304" ;
 .
 
 <urn:mdciii:1603:16:8:3:40305>
@@ -2375,7 +2195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjinar"@eng-Latn ,
         "Gjinar"@sqi-Latn ;
-    wdata:q7200235 "AL040305" ;
 .
 
 <urn:mdciii:1603:16:8:3:40306>
@@ -2386,7 +2205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gracen"@eng-Latn ,
         "Gracen"@sqi-Latn ;
-    wdata:q7200235 "AL040306" ;
 .
 
 <urn:mdciii:1603:16:8:3:40307>
@@ -2397,7 +2215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Labinot Fushe"@eng-Latn ,
         "Labinot Fushë"@sqi-Latn ;
-    wdata:q7200235 "AL040307" ;
 .
 
 <urn:mdciii:1603:16:8:3:40308>
@@ -2408,7 +2225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Labinot Mal"@eng-Latn ,
         "Labinot Mal"@sqi-Latn ;
-    wdata:q7200235 "AL040308" ;
 .
 
 <urn:mdciii:1603:16:8:3:40309>
@@ -2419,7 +2235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Paper"@eng-Latn ,
         "Papër"@sqi-Latn ;
-    wdata:q7200235 "AL040309" ;
 .
 
 <urn:mdciii:1603:16:8:3:40310>
@@ -2430,7 +2245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shirgjan"@eng-Latn ,
         "Shirgjan"@sqi-Latn ;
-    wdata:q7200235 "AL040310" ;
 .
 
 <urn:mdciii:1603:16:8:3:40311>
@@ -2441,7 +2255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shushice"@eng-Latn ,
         "Shushicë"@sqi-Latn ;
-    wdata:q7200235 "AL040311" ;
 .
 
 <urn:mdciii:1603:16:8:3:40312>
@@ -2452,7 +2265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tregan"@eng-Latn ,
         "Tregan"@sqi-Latn ;
-    wdata:q7200235 "AL040312" ;
 .
 
 <urn:mdciii:1603:16:8:3:40313>
@@ -2463,7 +2275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zavaline"@eng-Latn ,
         "Zavalinë"@sqi-Latn ;
-    wdata:q7200235 "AL040313" ;
 .
 
 <urn:mdciii:1603:16:8:3:40401>
@@ -2474,7 +2285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gramsh"@eng-Latn ,
         "Gramsh"@sqi-Latn ;
-    wdata:q7200235 "AL040401" ;
 .
 
 <urn:mdciii:1603:16:8:3:40402>
@@ -2485,7 +2295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kodovjat"@eng-Latn ,
         "Kodovjat"@sqi-Latn ;
-    wdata:q7200235 "AL040402" ;
 .
 
 <urn:mdciii:1603:16:8:3:40403>
@@ -2496,7 +2305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kukur"@eng-Latn ,
         "Kukur"@sqi-Latn ;
-    wdata:q7200235 "AL040403" ;
 .
 
 <urn:mdciii:1603:16:8:3:40404>
@@ -2507,7 +2315,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kushove"@eng-Latn ,
         "Kushovë"@sqi-Latn ;
-    wdata:q7200235 "AL040404" ;
 .
 
 <urn:mdciii:1603:16:8:3:40405>
@@ -2518,7 +2325,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lenie"@eng-Latn ,
         "Lënie"@sqi-Latn ;
-    wdata:q7200235 "AL040405" ;
 .
 
 <urn:mdciii:1603:16:8:3:40406>
@@ -2529,7 +2335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pishaj"@eng-Latn ,
         "Pishaj"@sqi-Latn ;
-    wdata:q7200235 "AL040406" ;
 .
 
 <urn:mdciii:1603:16:8:3:40407>
@@ -2540,7 +2345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Porocan"@eng-Latn ,
         "Poroçan"@sqi-Latn ;
-    wdata:q7200235 "AL040407" ;
 .
 
 <urn:mdciii:1603:16:8:3:40408>
@@ -2551,7 +2355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Skenderbegas"@eng-Latn ,
         "Skëndërbegas"@sqi-Latn ;
-    wdata:q7200235 "AL040408" ;
 .
 
 <urn:mdciii:1603:16:8:3:40409>
@@ -2562,7 +2365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sult"@eng-Latn ,
         "Sult"@sqi-Latn ;
-    wdata:q7200235 "AL040409" ;
 .
 
 <urn:mdciii:1603:16:8:3:40410>
@@ -2573,7 +2375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tunje"@eng-Latn ,
         "Tunjë"@sqi-Latn ;
-    wdata:q7200235 "AL040410" ;
 .
 
 <urn:mdciii:1603:16:8:3:40501>
@@ -2584,7 +2385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hotolisht"@eng-Latn ,
         "Hotolisht"@sqi-Latn ;
-    wdata:q7200235 "AL040501" ;
 .
 
 <urn:mdciii:1603:16:8:3:40502>
@@ -2595,7 +2395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Librazhd"@eng-Latn ,
         "Librazhd"@sqi-Latn ;
-    wdata:q7200235 "AL040502" ;
 .
 
 <urn:mdciii:1603:16:8:3:40503>
@@ -2606,7 +2405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lunik"@eng-Latn ,
         "Lunik"@sqi-Latn ;
-    wdata:q7200235 "AL040503" ;
 .
 
 <urn:mdciii:1603:16:8:3:40504>
@@ -2617,7 +2415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orenje"@eng-Latn ,
         "Orenjë"@sqi-Latn ;
-    wdata:q7200235 "AL040504" ;
 .
 
 <urn:mdciii:1603:16:8:3:40505>
@@ -2628,7 +2425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Polis"@eng-Latn ,
         "Polis"@sqi-Latn ;
-    wdata:q7200235 "AL040505" ;
 .
 
 <urn:mdciii:1603:16:8:3:40506>
@@ -2639,7 +2435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL040506" ;
 .
 
 <urn:mdciii:1603:16:8:3:40507>
@@ -2650,7 +2445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Stebleve"@eng-Latn ,
         "Steblevë"@sqi-Latn ;
-    wdata:q7200235 "AL040507" ;
 .
 
 <urn:mdciii:1603:16:8:3:40601>
@@ -2661,7 +2455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjocaj"@eng-Latn ,
         "Gjocaj"@sqi-Latn ;
-    wdata:q7200235 "AL040601" ;
 .
 
 <urn:mdciii:1603:16:8:3:40602>
@@ -2672,7 +2465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Karine"@eng-Latn ,
         "Karinë"@sqi-Latn ;
-    wdata:q7200235 "AL040602" ;
 .
 
 <urn:mdciii:1603:16:8:3:40603>
@@ -2683,7 +2475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pajove"@eng-Latn ,
         "Pajovë"@sqi-Latn ;
-    wdata:q7200235 "AL040603" ;
 .
 
 <urn:mdciii:1603:16:8:3:40604>
@@ -2694,7 +2485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Peqin"@eng-Latn ,
         "Peqin"@sqi-Latn ;
-    wdata:q7200235 "AL040604" ;
 .
 
 <urn:mdciii:1603:16:8:3:40605>
@@ -2705,7 +2495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Perparim"@eng-Latn ,
         "Përparim"@sqi-Latn ;
-    wdata:q7200235 "AL040605" ;
 .
 
 <urn:mdciii:1603:16:8:3:40606>
@@ -2716,7 +2505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sheze"@eng-Latn ,
         "Shezë"@sqi-Latn ;
-    wdata:q7200235 "AL040606" ;
 .
 
 <urn:mdciii:1603:16:8:3:40701>
@@ -2727,7 +2515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Perrenjas"@eng-Latn ,
         "Perrenjas"@sqi-Latn ;
-    wdata:q7200235 "AL040701" ;
 .
 
 <urn:mdciii:1603:16:8:3:40702>
@@ -2738,7 +2525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qukes"@eng-Latn ,
         "Qukës"@sqi-Latn ;
-    wdata:q7200235 "AL040702" ;
 .
 
 <urn:mdciii:1603:16:8:3:40703>
@@ -2749,7 +2535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rrajce"@eng-Latn ,
         "Rrajcë"@sqi-Latn ;
-    wdata:q7200235 "AL040703" ;
 .
 
 <urn:mdciii:1603:16:8:3:40704>
@@ -2760,7 +2545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Stravaj"@eng-Latn ,
         "Stravaj"@sqi-Latn ;
-    wdata:q7200235 "AL040704" ;
 .
 
 <urn:mdciii:1603:16:8:3:50101>
@@ -2771,7 +2555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Divjake"@eng-Latn ,
         "Divjakë"@sqi-Latn ;
-    wdata:q7200235 "AL050101" ;
 .
 
 <urn:mdciii:1603:16:8:3:50102>
@@ -2782,7 +2565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grabian"@eng-Latn ,
         "Grabian"@sqi-Latn ;
-    wdata:q7200235 "AL050102" ;
 .
 
 <urn:mdciii:1603:16:8:3:50103>
@@ -2793,7 +2575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gradishte"@eng-Latn ,
         "Gradishtë"@sqi-Latn ;
-    wdata:q7200235 "AL050103" ;
 .
 
 <urn:mdciii:1603:16:8:3:50104>
@@ -2804,7 +2585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Remas"@eng-Latn ,
         "Remas"@sqi-Latn ;
-    wdata:q7200235 "AL050104" ;
 .
 
 <urn:mdciii:1603:16:8:3:50105>
@@ -2815,7 +2595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Terbuf"@eng-Latn ,
         "Tërbuf"@sqi-Latn ;
-    wdata:q7200235 "AL050105" ;
 .
 
 <urn:mdciii:1603:16:8:3:50201>
@@ -2826,7 +2605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cakran"@eng-Latn ,
         "Cakran"@sqi-Latn ;
-    wdata:q7200235 "AL050201" ;
 .
 
 <urn:mdciii:1603:16:8:3:50202>
@@ -2837,7 +2615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dermenas"@eng-Latn ,
         "Dermenas"@sqi-Latn ;
-    wdata:q7200235 "AL050202" ;
 .
 
 <urn:mdciii:1603:16:8:3:50203>
@@ -2848,7 +2625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fier"@eng-Latn ,
         "Fier"@sqi-Latn ;
-    wdata:q7200235 "AL050203" ;
 .
 
 <urn:mdciii:1603:16:8:3:50204>
@@ -2859,7 +2635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Frakull"@eng-Latn ,
         "Frakull"@sqi-Latn ;
-    wdata:q7200235 "AL050204" ;
 .
 
 <urn:mdciii:1603:16:8:3:50205>
@@ -2870,7 +2645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Levan"@eng-Latn ,
         "Levan"@sqi-Latn ;
-    wdata:q7200235 "AL050205" ;
 .
 
 <urn:mdciii:1603:16:8:3:50206>
@@ -2881,7 +2655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Libofshe"@eng-Latn ,
         "Libofshë"@sqi-Latn ;
-    wdata:q7200235 "AL050206" ;
 .
 
 <urn:mdciii:1603:16:8:3:50207>
@@ -2892,7 +2665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mbrostar Ura"@eng-Latn ,
         "Mbrostar Ura"@sqi-Latn ;
-    wdata:q7200235 "AL050207" ;
 .
 
 <urn:mdciii:1603:16:8:3:50208>
@@ -2903,7 +2675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Portez"@eng-Latn ,
         "Portëz"@sqi-Latn ;
-    wdata:q7200235 "AL050208" ;
 .
 
 <urn:mdciii:1603:16:8:3:50209>
@@ -2914,7 +2685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL050209" ;
 .
 
 <urn:mdciii:1603:16:8:3:50210>
@@ -2925,7 +2695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Topoje"@eng-Latn ,
         "Topojë"@sqi-Latn ;
-    wdata:q7200235 "AL050210" ;
 .
 
 <urn:mdciii:1603:16:8:3:50211>
@@ -2936,7 +2705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zharrez"@eng-Latn ,
         "Zharrëz"@sqi-Latn ;
-    wdata:q7200235 "AL050211" ;
 .
 
 <urn:mdciii:1603:16:8:3:50301>
@@ -2947,7 +2715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Allkaj"@eng-Latn ,
         "Allkaj"@sqi-Latn ;
-    wdata:q7200235 "AL050301" ;
 .
 
 <urn:mdciii:1603:16:8:3:50302>
@@ -2958,7 +2725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ballagat"@eng-Latn ,
         "Ballagat"@sqi-Latn ;
-    wdata:q7200235 "AL050302" ;
 .
 
 <urn:mdciii:1603:16:8:3:50303>
@@ -2969,7 +2735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bubullime"@eng-Latn ,
         "Bubullimë"@sqi-Latn ;
-    wdata:q7200235 "AL050303" ;
 .
 
 <urn:mdciii:1603:16:8:3:50304>
@@ -2980,7 +2745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dushk"@eng-Latn ,
         "Dushk"@sqi-Latn ;
-    wdata:q7200235 "AL050304" ;
 .
 
 <urn:mdciii:1603:16:8:3:50305>
@@ -2991,7 +2755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fier Shegan"@eng-Latn ,
         "Fier Shegan"@sqi-Latn ;
-    wdata:q7200235 "AL050305" ;
 .
 
 <urn:mdciii:1603:16:8:3:50306>
@@ -3002,7 +2765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Golem"@eng-Latn ,
         "Golem"@sqi-Latn ;
-    wdata:q7200235 "AL050306" ;
 .
 
 <urn:mdciii:1603:16:8:3:50307>
@@ -3013,7 +2775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hysgjokaj"@eng-Latn ,
         "Hysgjokaj"@sqi-Latn ;
-    wdata:q7200235 "AL050307" ;
 .
 
 <urn:mdciii:1603:16:8:3:50308>
@@ -3024,7 +2785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Karbunare"@eng-Latn ,
         "Karbunarë"@sqi-Latn ;
-    wdata:q7200235 "AL050308" ;
 .
 
 <urn:mdciii:1603:16:8:3:50309>
@@ -3035,7 +2795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kolonje"@eng-Latn ,
         "Kolonjë"@sqi-Latn ;
-    wdata:q7200235 "AL050309" ;
 .
 
 <urn:mdciii:1603:16:8:3:50310>
@@ -3046,7 +2805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krutje"@eng-Latn ,
         "Krutjë"@sqi-Latn ;
-    wdata:q7200235 "AL050310" ;
 .
 
 <urn:mdciii:1603:16:8:3:50311>
@@ -3057,7 +2815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lushnje"@eng-Latn ,
         "Lushnjë"@sqi-Latn ;
-    wdata:q7200235 "AL050311" ;
 .
 
 <urn:mdciii:1603:16:8:3:50401>
@@ -3068,7 +2825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aranitas"@eng-Latn ,
         "Aranitas"@sqi-Latn ;
-    wdata:q7200235 "AL050401" ;
 .
 
 <urn:mdciii:1603:16:8:3:50402>
@@ -3079,7 +2835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia B"@eng-Latn ,
         "Bashkia B"@sqi-Latn ;
-    wdata:q7200235 "AL050402" ;
 .
 
 <urn:mdciii:1603:16:8:3:50403>
@@ -3090,7 +2845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fratar"@eng-Latn ,
         "Fratar"@sqi-Latn ;
-    wdata:q7200235 "AL050403" ;
 .
 
 <urn:mdciii:1603:16:8:3:50404>
@@ -3101,7 +2855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Greshice"@eng-Latn ,
         "Greshicë"@sqi-Latn ;
-    wdata:q7200235 "AL050404" ;
 .
 
 <urn:mdciii:1603:16:8:3:50405>
@@ -3112,7 +2865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hekal"@eng-Latn ,
         "Hekal"@sqi-Latn ;
-    wdata:q7200235 "AL050405" ;
 .
 
 <urn:mdciii:1603:16:8:3:50406>
@@ -3123,7 +2875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kute"@eng-Latn ,
         "Kutë"@sqi-Latn ;
-    wdata:q7200235 "AL050406" ;
 .
 
 <urn:mdciii:1603:16:8:3:50407>
@@ -3134,7 +2885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngracan"@eng-Latn ,
         "Ngraçan"@sqi-Latn ;
-    wdata:q7200235 "AL050407" ;
 .
 
 <urn:mdciii:1603:16:8:3:50408>
@@ -3145,7 +2895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL050408" ;
 .
 
 <urn:mdciii:1603:16:8:3:50409>
@@ -3156,7 +2905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Selite"@eng-Latn ,
         "Selitë"@sqi-Latn ;
-    wdata:q7200235 "AL050409" ;
 .
 
 <urn:mdciii:1603:16:8:3:50501>
@@ -3167,7 +2915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Patos"@eng-Latn ,
         "Patos"@sqi-Latn ;
-    wdata:q7200235 "AL050501" ;
 .
 
 <urn:mdciii:1603:16:8:3:50502>
@@ -3178,7 +2925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ruzhdie"@eng-Latn ,
         "Ruzhdie"@sqi-Latn ;
-    wdata:q7200235 "AL050502" ;
 .
 
 <urn:mdciii:1603:16:8:3:50601>
@@ -3189,7 +2935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kuman"@eng-Latn ,
         "Kuman"@sqi-Latn ;
-    wdata:q7200235 "AL050601" ;
 .
 
 <urn:mdciii:1603:16:8:3:50602>
@@ -3200,7 +2945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kurjan"@eng-Latn ,
         "Kurjan"@sqi-Latn ;
-    wdata:q7200235 "AL050602" ;
 .
 
 <urn:mdciii:1603:16:8:3:50603>
@@ -3211,7 +2955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Roskovec"@eng-Latn ,
         "Roskovec"@sqi-Latn ;
-    wdata:q7200235 "AL050603" ;
 .
 
 <urn:mdciii:1603:16:8:3:50604>
@@ -3222,7 +2965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Strum"@eng-Latn ,
         "Strum"@sqi-Latn ;
-    wdata:q7200235 "AL050604" ;
 .
 
 <urn:mdciii:1603:16:8:3:60101>
@@ -3233,7 +2975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dropull i Poshtem"@eng-Latn ,
         "Dropull i Poshtëm"@sqi-Latn ;
-    wdata:q7200235 "AL060101" ;
 .
 
 <urn:mdciii:1603:16:8:3:60102>
@@ -3244,7 +2985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dropull i Siperm"@eng-Latn ,
         "Dropull i Sipërm"@sqi-Latn ;
-    wdata:q7200235 "AL060102" ;
 .
 
 <urn:mdciii:1603:16:8:3:60103>
@@ -3255,7 +2995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pogon"@eng-Latn ,
         "Pogon"@sqi-Latn ;
-    wdata:q7200235 "AL060103" ;
 .
 
 <urn:mdciii:1603:16:8:3:60201>
@@ -3266,7 +3005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Antigone"@eng-Latn ,
         "Antigonë"@sqi-Latn ;
-    wdata:q7200235 "AL060201" ;
 .
 
 <urn:mdciii:1603:16:8:3:60202>
@@ -3277,7 +3015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cepo"@eng-Latn ,
         "Cepo"@sqi-Latn ;
-    wdata:q7200235 "AL060202" ;
 .
 
 <urn:mdciii:1603:16:8:3:60203>
@@ -3288,7 +3025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjirokaster"@eng-Latn ,
         "Gjirokastër"@sqi-Latn ;
-    wdata:q7200235 "AL060203" ;
 .
 
 <urn:mdciii:1603:16:8:3:60204>
@@ -3299,7 +3035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lazarat"@eng-Latn ,
         "Lazarat"@sqi-Latn ;
-    wdata:q7200235 "AL060204" ;
 .
 
 <urn:mdciii:1603:16:8:3:60205>
@@ -3310,7 +3045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lunxheri"@eng-Latn ,
         "Lunxhëri"@sqi-Latn ;
-    wdata:q7200235 "AL060205" ;
 .
 
 <urn:mdciii:1603:16:8:3:60206>
@@ -3321,7 +3055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Odrie"@eng-Latn ,
         "Odrie"@sqi-Latn ;
-    wdata:q7200235 "AL060206" ;
 .
 
 <urn:mdciii:1603:16:8:3:60207>
@@ -3332,7 +3065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Picar"@eng-Latn ,
         "Picar"@sqi-Latn ;
-    wdata:q7200235 "AL060207" ;
 .
 
 <urn:mdciii:1603:16:8:3:60301>
@@ -3343,7 +3075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ballaban"@eng-Latn ,
         "Ballaban"@sqi-Latn ;
-    wdata:q7200235 "AL060301" ;
 .
 
 <urn:mdciii:1603:16:8:3:60302>
@@ -3354,7 +3085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dishnice"@eng-Latn ,
         "Dishnicë"@sqi-Latn ;
-    wdata:q7200235 "AL060302" ;
 .
 
 <urn:mdciii:1603:16:8:3:60303>
@@ -3365,7 +3095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kelcyre"@eng-Latn ,
         "Këlcyrë"@sqi-Latn ;
-    wdata:q7200235 "AL060303" ;
 .
 
 <urn:mdciii:1603:16:8:3:60304>
@@ -3376,7 +3105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suke"@eng-Latn ,
         "Sukë"@sqi-Latn ;
-    wdata:q7200235 "AL060304" ;
 .
 
 <urn:mdciii:1603:16:8:3:60401>
@@ -3387,7 +3115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Libohove"@eng-Latn ,
         "Libohovë"@sqi-Latn ;
-    wdata:q7200235 "AL060401" ;
 .
 
 <urn:mdciii:1603:16:8:3:60402>
@@ -3398,7 +3125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qen Liboh"@eng-Latn ,
         "Qen.Liboh"@sqi-Latn ;
-    wdata:q7200235 "AL060402" ;
 .
 
 <urn:mdciii:1603:16:8:3:60403>
@@ -3409,7 +3135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zagori"@eng-Latn ,
         "Zagori"@sqi-Latn ;
-    wdata:q7200235 "AL060403" ;
 .
 
 <urn:mdciii:1603:16:8:3:60501>
@@ -3420,7 +3145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buz"@eng-Latn ,
         "Buz"@sqi-Latn ;
-    wdata:q7200235 "AL060501" ;
 .
 
 <urn:mdciii:1603:16:8:3:60502>
@@ -3431,7 +3155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fshat Mem"@eng-Latn ,
         "Fshat Mem"@sqi-Latn ;
-    wdata:q7200235 "AL060502" ;
 .
 
 <urn:mdciii:1603:16:8:3:60503>
@@ -3442,7 +3165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krahes"@eng-Latn ,
         "Krahës"@sqi-Latn ;
-    wdata:q7200235 "AL060503" ;
 .
 
 <urn:mdciii:1603:16:8:3:60504>
@@ -3453,7 +3175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luftinje"@eng-Latn ,
         "Luftinjë"@sqi-Latn ;
-    wdata:q7200235 "AL060504" ;
 .
 
 <urn:mdciii:1603:16:8:3:60505>
@@ -3464,7 +3185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Memaliaj"@eng-Latn ,
         "Memaliaj"@sqi-Latn ;
-    wdata:q7200235 "AL060505" ;
 .
 
 <urn:mdciii:1603:16:8:3:60506>
@@ -3475,7 +3195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qesarat"@eng-Latn ,
         "Qesarat"@sqi-Latn ;
-    wdata:q7200235 "AL060506" ;
 .
 
 <urn:mdciii:1603:16:8:3:60601>
@@ -3486,7 +3205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Carshove"@eng-Latn ,
         "Çarshovë"@sqi-Latn ;
-    wdata:q7200235 "AL060601" ;
 .
 
 <urn:mdciii:1603:16:8:3:60602>
@@ -3497,7 +3215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Frasher"@eng-Latn ,
         "Frashër"@sqi-Latn ;
-    wdata:q7200235 "AL060602" ;
 .
 
 <urn:mdciii:1603:16:8:3:60603>
@@ -3508,7 +3225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Permet"@eng-Latn ,
         "Përmet"@sqi-Latn ;
-    wdata:q7200235 "AL060603" ;
 .
 
 <urn:mdciii:1603:16:8:3:60604>
@@ -3519,7 +3235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petran"@eng-Latn ,
         "Petran"@sqi-Latn ;
-    wdata:q7200235 "AL060604" ;
 .
 
 <urn:mdciii:1603:16:8:3:60605>
@@ -3530,7 +3245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender Piskove"@eng-Latn ,
         "Qendër Piskovë"@sqi-Latn ;
-    wdata:q7200235 "AL060605" ;
 .
 
 <urn:mdciii:1603:16:8:3:60701>
@@ -3541,7 +3255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kurvelesh"@eng-Latn ,
         "Kurvelesh"@sqi-Latn ;
-    wdata:q7200235 "AL060701" ;
 .
 
 <urn:mdciii:1603:16:8:3:60702>
@@ -3552,7 +3265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lopes"@eng-Latn ,
         "Lopës"@sqi-Latn ;
-    wdata:q7200235 "AL060702" ;
 .
 
 <urn:mdciii:1603:16:8:3:60703>
@@ -3563,7 +3275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL060703" ;
 .
 
 <urn:mdciii:1603:16:8:3:60704>
@@ -3574,7 +3285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tepelene"@eng-Latn ,
         "Tepelenë"@sqi-Latn ;
-    wdata:q7200235 "AL060704" ;
 .
 
 <urn:mdciii:1603:16:8:3:70101>
@@ -3585,7 +3295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ballsh"@eng-Latn ,
         "Ballsh"@sqi-Latn ;
-    wdata:q7200235 "AL070101" ;
 .
 
 <urn:mdciii:1603:16:8:3:70102>
@@ -3596,7 +3305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bilisht"@eng-Latn ,
         "Bilisht"@sqi-Latn ;
-    wdata:q7200235 "AL070102" ;
 .
 
 <urn:mdciii:1603:16:8:3:70103>
@@ -3607,7 +3315,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hocisht"@eng-Latn ,
         "Hoçisht"@sqi-Latn ;
-    wdata:q7200235 "AL070103" ;
 .
 
 <urn:mdciii:1603:16:8:3:70104>
@@ -3618,7 +3325,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Miras"@eng-Latn ,
         "Miras"@sqi-Latn ;
-    wdata:q7200235 "AL070104" ;
 .
 
 <urn:mdciii:1603:16:8:3:70105>
@@ -3629,7 +3335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Proger"@eng-Latn ,
         "Progër"@sqi-Latn ;
-    wdata:q7200235 "AL070105" ;
 .
 
 <urn:mdciii:1603:16:8:3:70201>
@@ -3640,7 +3345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Barmash"@eng-Latn ,
         "Barmash"@sqi-Latn ;
-    wdata:q7200235 "AL070201" ;
 .
 
 <urn:mdciii:1603:16:8:3:70202>
@@ -3651,7 +3355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Clirim"@eng-Latn ,
         "Çlirim"@sqi-Latn ;
-    wdata:q7200235 "AL070202" ;
 .
 
 <urn:mdciii:1603:16:8:3:70203>
@@ -3662,7 +3365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Erseke"@eng-Latn ,
         "Ersekë"@sqi-Latn ;
-    wdata:q7200235 "AL070203" ;
 .
 
 <urn:mdciii:1603:16:8:3:70204>
@@ -3673,7 +3375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Komuna La"@eng-Latn ,
         "Komuna La"@sqi-Latn ;
-    wdata:q7200235 "AL070204" ;
 .
 
 <urn:mdciii:1603:16:8:3:70205>
@@ -3684,7 +3385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Leskovik"@eng-Latn ,
         "Leskovik"@sqi-Latn ;
-    wdata:q7200235 "AL070205" ;
 .
 
 <urn:mdciii:1603:16:8:3:70206>
@@ -3695,7 +3395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mollas"@eng-Latn ,
         "Mollas"@sqi-Latn ;
-    wdata:q7200235 "AL070206" ;
 .
 
 <urn:mdciii:1603:16:8:3:70207>
@@ -3706,7 +3405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Novosele"@eng-Latn ,
         "Novoselë"@sqi-Latn ;
-    wdata:q7200235 "AL070207" ;
 .
 
 <urn:mdciii:1603:16:8:3:70208>
@@ -3717,7 +3415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender Erseke"@eng-Latn ,
         "Qendër Ersekë"@sqi-Latn ;
-    wdata:q7200235 "AL070208" ;
 .
 
 <urn:mdciii:1603:16:8:3:70301>
@@ -3728,7 +3425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Drenove"@eng-Latn ,
         "Drenovë"@sqi-Latn ;
-    wdata:q7200235 "AL070301" ;
 .
 
 <urn:mdciii:1603:16:8:3:70302>
@@ -3739,7 +3435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Korce"@eng-Latn ,
         "Korçë"@sqi-Latn ;
-    wdata:q7200235 "AL070302" ;
 .
 
 <urn:mdciii:1603:16:8:3:70303>
@@ -3750,7 +3445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lekas"@eng-Latn ,
         "Lekas"@sqi-Latn ;
-    wdata:q7200235 "AL070303" ;
 .
 
 <urn:mdciii:1603:16:8:3:70304>
@@ -3761,7 +3455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mollaj"@eng-Latn ,
         "Mollaj"@sqi-Latn ;
-    wdata:q7200235 "AL070304" ;
 .
 
 <urn:mdciii:1603:16:8:3:70305>
@@ -3772,7 +3465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qender"@eng-Latn ,
         "Qendër"@sqi-Latn ;
-    wdata:q7200235 "AL070305" ;
 .
 
 <urn:mdciii:1603:16:8:3:70306>
@@ -3783,7 +3475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vithkuq"@eng-Latn ,
         "Vithkuq"@sqi-Latn ;
-    wdata:q7200235 "AL070306" ;
 .
 
 <urn:mdciii:1603:16:8:3:70307>
@@ -3794,7 +3485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Voskop"@eng-Latn ,
         "Voskop"@sqi-Latn ;
-    wdata:q7200235 "AL070307" ;
 .
 
 <urn:mdciii:1603:16:8:3:70308>
@@ -3805,7 +3495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Voskopoje"@eng-Latn ,
         "Voskopojë"@sqi-Latn ;
-    wdata:q7200235 "AL070308" ;
 .
 
 <urn:mdciii:1603:16:8:3:70401>
@@ -3816,7 +3505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gore"@eng-Latn ,
         "Gore"@sqi-Latn ;
-    wdata:q7200235 "AL070401" ;
 .
 
 <urn:mdciii:1603:16:8:3:70402>
@@ -3827,7 +3515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Libonik"@eng-Latn ,
         "Libonik"@sqi-Latn ;
-    wdata:q7200235 "AL070402" ;
 .
 
 <urn:mdciii:1603:16:8:3:70403>
@@ -3838,7 +3525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maliq"@eng-Latn ,
         "Maliq"@sqi-Latn ;
-    wdata:q7200235 "AL070403" ;
 .
 
 <urn:mdciii:1603:16:8:3:70404>
@@ -3849,7 +3535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Moglice"@eng-Latn ,
         "Moglicë"@sqi-Latn ;
-    wdata:q7200235 "AL070404" ;
 .
 
 <urn:mdciii:1603:16:8:3:70405>
@@ -3860,7 +3545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pirg"@eng-Latn ,
         "Pirg"@sqi-Latn ;
-    wdata:q7200235 "AL070405" ;
 .
 
 <urn:mdciii:1603:16:8:3:70406>
@@ -3871,7 +3555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pojan"@eng-Latn ,
         "Pojan"@sqi-Latn ;
-    wdata:q7200235 "AL070406" ;
 .
 
 <urn:mdciii:1603:16:8:3:70407>
@@ -3882,7 +3565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vreshtas"@eng-Latn ,
         "Vreshtas"@sqi-Latn ;
-    wdata:q7200235 "AL070407" ;
 .
 
 <urn:mdciii:1603:16:8:3:70501>
@@ -3893,7 +3575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bucimas"@eng-Latn ,
         "Buçimas"@sqi-Latn ;
-    wdata:q7200235 "AL070501" ;
 .
 
 <urn:mdciii:1603:16:8:3:70502>
@@ -3904,7 +3585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cerrave"@eng-Latn ,
         "Çërravë"@sqi-Latn ;
-    wdata:q7200235 "AL070502" ;
 .
 
 <urn:mdciii:1603:16:8:3:70503>
@@ -3915,7 +3595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dardhas"@eng-Latn ,
         "Dardhas"@sqi-Latn ;
-    wdata:q7200235 "AL070503" ;
 .
 
 <urn:mdciii:1603:16:8:3:70504>
@@ -3926,7 +3605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hudenisht"@eng-Latn ,
         "Hudenisht"@sqi-Latn ;
-    wdata:q7200235 "AL070504" ;
 .
 
 <urn:mdciii:1603:16:8:3:70505>
@@ -3937,7 +3615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pogradec"@eng-Latn ,
         "Pogradec"@sqi-Latn ;
-    wdata:q7200235 "AL070505" ;
 .
 
 <urn:mdciii:1603:16:8:3:70506>
@@ -3948,7 +3625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Proptisht"@eng-Latn ,
         "Proptisht"@sqi-Latn ;
-    wdata:q7200235 "AL070506" ;
 .
 
 <urn:mdciii:1603:16:8:3:70507>
@@ -3959,7 +3635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trebinje"@eng-Latn ,
         "Trebinjë"@sqi-Latn ;
-    wdata:q7200235 "AL070507" ;
 .
 
 <urn:mdciii:1603:16:8:3:70508>
@@ -3970,7 +3645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Velcan"@eng-Latn ,
         "Velçan"@sqi-Latn ;
-    wdata:q7200235 "AL070508" ;
 .
 
 <urn:mdciii:1603:16:8:3:70601>
@@ -3981,7 +3655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liqenas"@eng-Latn ,
         "Liqenas"@sqi-Latn ;
-    wdata:q7200235 "AL070601" ;
 .
 
 <urn:mdciii:1603:16:8:3:80101>
@@ -3992,7 +3665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fajza"@eng-Latn ,
         "Fajza"@sqi-Latn ;
-    wdata:q7200235 "AL080101" ;
 .
 
 <urn:mdciii:1603:16:8:3:80102>
@@ -4003,7 +3675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gjinaj"@eng-Latn ,
         "Gjinaj"@sqi-Latn ;
-    wdata:q7200235 "AL080102" ;
 .
 
 <urn:mdciii:1603:16:8:3:80103>
@@ -4014,7 +3685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Golaj"@eng-Latn ,
         "Golaj"@sqi-Latn ;
-    wdata:q7200235 "AL080103" ;
 .
 
 <urn:mdciii:1603:16:8:3:80104>
@@ -4025,7 +3695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krume"@eng-Latn ,
         "Krumë"@sqi-Latn ;
-    wdata:q7200235 "AL080104" ;
 .
 
 <urn:mdciii:1603:16:8:3:80201>
@@ -4036,7 +3705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arren"@eng-Latn ,
         "Arrën"@sqi-Latn ;
-    wdata:q7200235 "AL080201" ;
 .
 
 <urn:mdciii:1603:16:8:3:80202>
@@ -4047,7 +3715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bicaj"@eng-Latn ,
         "Bicaj"@sqi-Latn ;
-    wdata:q7200235 "AL080202" ;
 .
 
 <urn:mdciii:1603:16:8:3:80203>
@@ -4058,7 +3725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bushtrice"@eng-Latn ,
         "Bushtricë"@sqi-Latn ;
-    wdata:q7200235 "AL080203" ;
 .
 
 <urn:mdciii:1603:16:8:3:80204>
@@ -4069,7 +3735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gryke-Caje"@eng-Latn ,
         "Gryke-Çaje"@sqi-Latn ;
-    wdata:q7200235 "AL080204" ;
 .
 
 <urn:mdciii:1603:16:8:3:80205>
@@ -4080,7 +3745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kalis"@eng-Latn ,
         "Kalis"@sqi-Latn ;
-    wdata:q7200235 "AL080205" ;
 .
 
 <urn:mdciii:1603:16:8:3:80206>
@@ -4091,7 +3755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kolsh"@eng-Latn ,
         "Kolsh"@sqi-Latn ;
-    wdata:q7200235 "AL080206" ;
 .
 
 <urn:mdciii:1603:16:8:3:80207>
@@ -4102,7 +3765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kukes"@eng-Latn ,
         "Kukës"@sqi-Latn ;
-    wdata:q7200235 "AL080207" ;
 .
 
 <urn:mdciii:1603:16:8:3:80208>
@@ -4113,7 +3775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Malzi"@eng-Latn ,
         "Malzi"@sqi-Latn ;
-    wdata:q7200235 "AL080208" ;
 .
 
 <urn:mdciii:1603:16:8:3:80209>
@@ -4124,7 +3785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shishtavec"@eng-Latn ,
         "Shishtavec"@sqi-Latn ;
-    wdata:q7200235 "AL080209" ;
 .
 
 <urn:mdciii:1603:16:8:3:80210>
@@ -4135,7 +3795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shtiqen"@eng-Latn ,
         "Shtiqen"@sqi-Latn ;
-    wdata:q7200235 "AL080210" ;
 .
 
 <urn:mdciii:1603:16:8:3:80211>
@@ -4146,7 +3805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Surroj"@eng-Latn ,
         "Surroj"@sqi-Latn ;
-    wdata:q7200235 "AL080211" ;
 .
 
 <urn:mdciii:1603:16:8:3:80212>
@@ -4157,7 +3815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Terthore"@eng-Latn ,
         "Terthorë"@sqi-Latn ;
-    wdata:q7200235 "AL080212" ;
 .
 
 <urn:mdciii:1603:16:8:3:80213>
@@ -4168,7 +3825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Topojan"@eng-Latn ,
         "Topojan"@sqi-Latn ;
-    wdata:q7200235 "AL080213" ;
 .
 
 <urn:mdciii:1603:16:8:3:80214>
@@ -4179,7 +3835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ujmisht"@eng-Latn ,
         "Ujmisht"@sqi-Latn ;
-    wdata:q7200235 "AL080214" ;
 .
 
 <urn:mdciii:1603:16:8:3:80215>
@@ -4190,7 +3845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zapod"@eng-Latn ,
         "Zapod"@sqi-Latn ;
-    wdata:q7200235 "AL080215" ;
 .
 
 <urn:mdciii:1603:16:8:3:80301>
@@ -4201,7 +3855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bajram Curri"@eng-Latn ,
         "Bajram Curri"@sqi-Latn ;
-    wdata:q7200235 "AL080301" ;
 .
 
 <urn:mdciii:1603:16:8:3:80302>
@@ -4212,7 +3865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bujan"@eng-Latn ,
         "Bujan"@sqi-Latn ;
-    wdata:q7200235 "AL080302" ;
 .
 
 <urn:mdciii:1603:16:8:3:80303>
@@ -4223,7 +3875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bytyc"@eng-Latn ,
         "Bytyç"@sqi-Latn ;
-    wdata:q7200235 "AL080303" ;
 .
 
 <urn:mdciii:1603:16:8:3:80304>
@@ -4234,7 +3885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fierze"@eng-Latn ,
         "Fierzë"@sqi-Latn ;
-    wdata:q7200235 "AL080304" ;
 .
 
 <urn:mdciii:1603:16:8:3:80305>
@@ -4245,7 +3895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lekbibaj"@eng-Latn ,
         "Lekbibaj"@sqi-Latn ;
-    wdata:q7200235 "AL080305" ;
 .
 
 <urn:mdciii:1603:16:8:3:80306>
@@ -4256,7 +3905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Llugaj"@eng-Latn ,
         "Llugaj"@sqi-Latn ;
-    wdata:q7200235 "AL080306" ;
 .
 
 <urn:mdciii:1603:16:8:3:80307>
@@ -4267,7 +3915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Margegaj"@eng-Latn ,
         "Margegaj"@sqi-Latn ;
-    wdata:q7200235 "AL080307" ;
 .
 
 <urn:mdciii:1603:16:8:3:80308>
@@ -4278,7 +3925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Topoje"@eng-Latn ,
         "Topojë"@sqi-Latn ;
-    wdata:q7200235 "AL080308" ;
 .
 
 <urn:mdciii:1603:16:8:3:90101>
@@ -4289,7 +3935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fushe Kuqe"@eng-Latn ,
         "Fushë Kuqe"@sqi-Latn ;
-    wdata:q7200235 "AL090101" ;
 .
 
 <urn:mdciii:1603:16:8:3:90102>
@@ -4300,7 +3945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lac"@eng-Latn ,
         "Laç"@sqi-Latn ;
-    wdata:q7200235 "AL090102" ;
 .
 
 <urn:mdciii:1603:16:8:3:90103>
@@ -4311,7 +3955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mamurras"@eng-Latn ,
         "Mamurras"@sqi-Latn ;
-    wdata:q7200235 "AL090103" ;
 .
 
 <urn:mdciii:1603:16:8:3:90104>
@@ -4322,7 +3965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Milot"@eng-Latn ,
         "Milot"@sqi-Latn ;
-    wdata:q7200235 "AL090104" ;
 .
 
 <urn:mdciii:1603:16:8:3:90201>
@@ -4333,7 +3975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Balldren i Ri"@eng-Latn ,
         "Balldren i Ri"@sqi-Latn ;
-    wdata:q7200235 "AL090201" ;
 .
 
 <urn:mdciii:1603:16:8:3:90202>
@@ -4344,7 +3985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Blinisht"@eng-Latn ,
         "Blinisht"@sqi-Latn ;
-    wdata:q7200235 "AL090202" ;
 .
 
 <urn:mdciii:1603:16:8:3:90203>
@@ -4355,7 +3995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dajc"@eng-Latn ,
         "Dajç"@sqi-Latn ;
-    wdata:q7200235 "AL090203" ;
 .
 
 <urn:mdciii:1603:16:8:3:90204>
@@ -4366,7 +4005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kallmet"@eng-Latn ,
         "Kallmet"@sqi-Latn ;
-    wdata:q7200235 "AL090204" ;
 .
 
 <urn:mdciii:1603:16:8:3:90205>
@@ -4377,7 +4015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kolsh"@eng-Latn ,
         "Kolsh"@sqi-Latn ;
-    wdata:q7200235 "AL090205" ;
 .
 
 <urn:mdciii:1603:16:8:3:90206>
@@ -4388,7 +4025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lezhe"@eng-Latn ,
         "Lezhë"@sqi-Latn ;
-    wdata:q7200235 "AL090206" ;
 .
 
 <urn:mdciii:1603:16:8:3:90207>
@@ -4399,7 +4035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shengjin"@eng-Latn ,
         "Shëngjin"@sqi-Latn ;
-    wdata:q7200235 "AL090207" ;
 .
 
 <urn:mdciii:1603:16:8:3:90208>
@@ -4410,7 +4045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shenkoll"@eng-Latn ,
         "Shënkoll"@sqi-Latn ;
-    wdata:q7200235 "AL090208" ;
 .
 
 <urn:mdciii:1603:16:8:3:90209>
@@ -4421,7 +4055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ungrej"@eng-Latn ,
         "Ungrej"@sqi-Latn ;
-    wdata:q7200235 "AL090209" ;
 .
 
 <urn:mdciii:1603:16:8:3:90210>
@@ -4432,7 +4065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zejmen"@eng-Latn ,
         "Zejmen"@sqi-Latn ;
-    wdata:q7200235 "AL090210" ;
 .
 
 <urn:mdciii:1603:16:8:3:90301>
@@ -4443,7 +4075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fan"@eng-Latn ,
         "Fan"@sqi-Latn ;
-    wdata:q7200235 "AL090301" ;
 .
 
 <urn:mdciii:1603:16:8:3:90302>
@@ -4454,7 +4085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kacinar"@eng-Latn ,
         "Kaçinar"@sqi-Latn ;
-    wdata:q7200235 "AL090302" ;
 .
 
 <urn:mdciii:1603:16:8:3:90303>
@@ -4465,7 +4095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kthelle"@eng-Latn ,
         "Kthellë"@sqi-Latn ;
-    wdata:q7200235 "AL090303" ;
 .
 
 <urn:mdciii:1603:16:8:3:90304>
@@ -4476,7 +4105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Orosh"@eng-Latn ,
         "Orosh"@sqi-Latn ;
-    wdata:q7200235 "AL090304" ;
 .
 
 <urn:mdciii:1603:16:8:3:90305>
@@ -4487,7 +4115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rreshen"@eng-Latn ,
         "Rrëshen"@sqi-Latn ;
-    wdata:q7200235 "AL090305" ;
 .
 
 <urn:mdciii:1603:16:8:3:90306>
@@ -4498,7 +4125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rubik"@eng-Latn ,
         "Rubik"@sqi-Latn ;
-    wdata:q7200235 "AL090306" ;
 .
 
 <urn:mdciii:1603:16:8:3:90307>
@@ -4509,6 +4135,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Selite"@eng-Latn ,
         "Selitë"@sqi-Latn ;
-    wdata:q7200235 "AL090307" ;
 .
 

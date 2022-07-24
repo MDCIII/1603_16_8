@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Berat"@eng-Latn ,
         "Bashkia Berat"@sqi-Latn ;
-    wdata:q7200235 "AL0101" ;
+    wdata:Q7200235 "AL0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -111,7 +111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Fushe Arrez"@eng-Latn ,
         "Bashkia Fushë Arrëz"@sqi-Latn ;
-    wdata:q7200235 "AL1001" ;
+    wdata:Q7200235 "AL1001" ;
 .
 
 <urn:mdciii:1603:16:8:2:1002>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Malesi e Madhe"@eng-Latn ,
         "Bashkia Malësi e Madhe"@sqi-Latn ;
-    wdata:q7200235 "AL1002" ;
+    wdata:Q7200235 "AL1002" ;
 .
 
 <urn:mdciii:1603:16:8:2:1003>
@@ -139,7 +139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Puke"@eng-Latn ,
         "Bashkia Pukë"@sqi-Latn ;
-    wdata:q7200235 "AL1003" ;
+    wdata:Q7200235 "AL1003" ;
 .
 
 <urn:mdciii:1603:16:8:2:1004>
@@ -153,7 +153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Shkoder"@eng-Latn ,
         "Bashkia Shkodër"@sqi-Latn ;
-    wdata:q7200235 "AL1004" ;
+    wdata:Q7200235 "AL1004" ;
 .
 
 <urn:mdciii:1603:16:8:2:1005>
@@ -167,7 +167,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Vau Dejes"@eng-Latn ,
         "Bashkia Vau i Dejës"@sqi-Latn ;
-    wdata:q7200235 "AL1005" ;
+    wdata:Q7200235 "AL1005" ;
 .
 
 <urn:mdciii:1603:16:8:2:102>
@@ -181,7 +181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kucove"@eng-Latn ,
         "Bashkia Kuçovë"@sqi-Latn ;
-    wdata:q7200235 "AL0102" ;
+    wdata:Q7200235 "AL0102" ;
 .
 
 <urn:mdciii:1603:16:8:2:103>
@@ -195,7 +195,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Polican"@eng-Latn ,
         "Bashkia Poliçan"@sqi-Latn ;
-    wdata:q7200235 "AL0103" ;
+    wdata:Q7200235 "AL0103" ;
 .
 
 <urn:mdciii:1603:16:8:2:104>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Skrapar"@eng-Latn ,
         "Bashkia Skraparit"@sqi-Latn ;
-    wdata:q7200235 "AL0104" ;
+    wdata:Q7200235 "AL0104" ;
 .
 
 <urn:mdciii:1603:16:8:2:105>
@@ -223,7 +223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Ura Vajgurore"@eng-Latn ,
         "Bashkia Ura Vajgurorë"@sqi-Latn ;
-    wdata:q7200235 "AL0105" ;
+    wdata:Q7200235 "AL0105" ;
 .
 
 <urn:mdciii:1603:16:8:2:1101>
@@ -237,7 +237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kamez"@eng-Latn ,
         "Bashkia Kavajë"@sqi-Latn ;
-    wdata:q7200235 "AL1101" ;
+    wdata:Q7200235 "AL1101" ;
 .
 
 <urn:mdciii:1603:16:8:2:1102>
@@ -251,7 +251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kavaje"@eng-Latn ,
         "Bashkia Kavajë"@sqi-Latn ;
-    wdata:q7200235 "AL1102" ;
+    wdata:Q7200235 "AL1102" ;
 .
 
 <urn:mdciii:1603:16:8:2:1103>
@@ -265,7 +265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Rrogozhine"@eng-Latn ,
         "Bashkia Rrogozhinë"@sqi-Latn ;
-    wdata:q7200235 "AL1103" ;
+    wdata:Q7200235 "AL1103" ;
 .
 
 <urn:mdciii:1603:16:8:2:1104>
@@ -279,7 +279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Vore"@eng-Latn ,
         "Bashkia Vorë"@sqi-Latn ;
-    wdata:q7200235 "AL1104" ;
+    wdata:Q7200235 "AL1104" ;
 .
 
 <urn:mdciii:1603:16:8:2:1105>
@@ -293,7 +293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tirana Municipally"@eng-Latn ,
         "Tiranë Municipally"@sqi-Latn ;
-    wdata:q7200235 "AL1105" ;
+    wdata:Q7200235 "AL1105" ;
 .
 
 <urn:mdciii:1603:16:8:2:1201>
@@ -307,7 +307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Delvine"@eng-Latn ,
         "Bashkia Delvinë"@sqi-Latn ;
-    wdata:q7200235 "AL1201" ;
+    wdata:Q7200235 "AL1201" ;
 .
 
 <urn:mdciii:1603:16:8:2:1202>
@@ -321,7 +321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Finiq"@eng-Latn ,
         "Bashkia Finiq"@sqi-Latn ;
-    wdata:q7200235 "AL1202" ;
+    wdata:Q7200235 "AL1202" ;
 .
 
 <urn:mdciii:1603:16:8:2:1203>
@@ -335,7 +335,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Himare"@eng-Latn ,
         "Bashkia Himarë"@sqi-Latn ;
-    wdata:q7200235 "AL1203" ;
+    wdata:Q7200235 "AL1203" ;
 .
 
 <urn:mdciii:1603:16:8:2:1204>
@@ -349,7 +349,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Konispol"@eng-Latn ,
         "Bashkia Konispol"@sqi-Latn ;
-    wdata:q7200235 "AL1204" ;
+    wdata:Q7200235 "AL1204" ;
 .
 
 <urn:mdciii:1603:16:8:2:1205>
@@ -363,7 +363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Sarande"@eng-Latn ,
         "Bashkia Sarandë"@sqi-Latn ;
-    wdata:q7200235 "AL1205" ;
+    wdata:Q7200235 "AL1205" ;
 .
 
 <urn:mdciii:1603:16:8:2:1206>
@@ -377,7 +377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Selenice"@eng-Latn ,
         "Bashkia Selenicë"@sqi-Latn ;
-    wdata:q7200235 "AL1206" ;
+    wdata:Q7200235 "AL1206" ;
 .
 
 <urn:mdciii:1603:16:8:2:1207>
@@ -391,7 +391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Vlore"@eng-Latn ,
         "Bashkia Vlorë"@sqi-Latn ;
-    wdata:q7200235 "AL1207" ;
+    wdata:Q7200235 "AL1207" ;
 .
 
 <urn:mdciii:1603:16:8:2:201>
@@ -405,7 +405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Bulqize"@eng-Latn ,
         "Bashkia Bulqizë"@sqi-Latn ;
-    wdata:q7200235 "AL0201" ;
+    wdata:Q7200235 "AL0201" ;
 .
 
 <urn:mdciii:1603:16:8:2:202>
@@ -419,7 +419,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Diber"@eng-Latn ,
         "Bashkia Dibër"@sqi-Latn ;
-    wdata:q7200235 "AL0202" ;
+    wdata:Q7200235 "AL0202" ;
 .
 
 <urn:mdciii:1603:16:8:2:203>
@@ -433,7 +433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Klos"@eng-Latn ,
         "Bashkia Klos"@sqi-Latn ;
-    wdata:q7200235 "AL0203" ;
+    wdata:Q7200235 "AL0203" ;
 .
 
 <urn:mdciii:1603:16:8:2:204>
@@ -447,7 +447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Mat"@eng-Latn ,
         "Bashkia Mat"@sqi-Latn ;
-    wdata:q7200235 "AL0204" ;
+    wdata:Q7200235 "AL0204" ;
 .
 
 <urn:mdciii:1603:16:8:2:301>
@@ -461,7 +461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Durres"@eng-Latn ,
         "Bashkia Durrës"@sqi-Latn ;
-    wdata:q7200235 "AL0301" ;
+    wdata:Q7200235 "AL0301" ;
 .
 
 <urn:mdciii:1603:16:8:2:302>
@@ -475,7 +475,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kruje"@eng-Latn ,
         "Bashkia Krujë"@sqi-Latn ;
-    wdata:q7200235 "AL0302" ;
+    wdata:Q7200235 "AL0302" ;
 .
 
 <urn:mdciii:1603:16:8:2:303>
@@ -489,7 +489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Shijak"@eng-Latn ,
         "Bashkia Shijak"@sqi-Latn ;
-    wdata:q7200235 "AL0303" ;
+    wdata:Q7200235 "AL0303" ;
 .
 
 <urn:mdciii:1603:16:8:2:401>
@@ -503,7 +503,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Belsh"@eng-Latn ,
         "Bashkia Belsh"@sqi-Latn ;
-    wdata:q7200235 "AL0401" ;
+    wdata:Q7200235 "AL0401" ;
 .
 
 <urn:mdciii:1603:16:8:2:402>
@@ -517,7 +517,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Cerrik"@eng-Latn ,
         "Bashkia Cërrik"@sqi-Latn ;
-    wdata:q7200235 "AL0402" ;
+    wdata:Q7200235 "AL0402" ;
 .
 
 <urn:mdciii:1603:16:8:2:403>
@@ -531,7 +531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Elbasan"@eng-Latn ,
         "Bashkia Elbasan"@sqi-Latn ;
-    wdata:q7200235 "AL0403" ;
+    wdata:Q7200235 "AL0403" ;
 .
 
 <urn:mdciii:1603:16:8:2:404>
@@ -545,7 +545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Gramsh"@eng-Latn ,
         "Bashkia Gramsh"@sqi-Latn ;
-    wdata:q7200235 "AL0404" ;
+    wdata:Q7200235 "AL0404" ;
 .
 
 <urn:mdciii:1603:16:8:2:405>
@@ -559,7 +559,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Librazhd"@eng-Latn ,
         "Bashkia Librazhd"@sqi-Latn ;
-    wdata:q7200235 "AL0405" ;
+    wdata:Q7200235 "AL0405" ;
 .
 
 <urn:mdciii:1603:16:8:2:406>
@@ -573,7 +573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Peqin"@eng-Latn ,
         "Bashkia Peqin"@sqi-Latn ;
-    wdata:q7200235 "AL0406" ;
+    wdata:Q7200235 "AL0406" ;
 .
 
 <urn:mdciii:1603:16:8:2:407>
@@ -587,7 +587,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Prrenjas"@eng-Latn ,
         "Bashkia Prrenjas"@sqi-Latn ;
-    wdata:q7200235 "AL0407" ;
+    wdata:Q7200235 "AL0407" ;
 .
 
 <urn:mdciii:1603:16:8:2:501>
@@ -601,7 +601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Divjake"@eng-Latn ,
         "Bashkia Divjakë"@sqi-Latn ;
-    wdata:q7200235 "AL0501" ;
+    wdata:Q7200235 "AL0501" ;
 .
 
 <urn:mdciii:1603:16:8:2:502>
@@ -615,7 +615,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Fier"@eng-Latn ,
         "Bashkia Fier"@sqi-Latn ;
-    wdata:q7200235 "AL0502" ;
+    wdata:Q7200235 "AL0502" ;
 .
 
 <urn:mdciii:1603:16:8:2:503>
@@ -629,7 +629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Lushnje"@eng-Latn ,
         "Bashkia Lushnjës"@sqi-Latn ;
-    wdata:q7200235 "AL0503" ;
+    wdata:Q7200235 "AL0503" ;
 .
 
 <urn:mdciii:1603:16:8:2:504>
@@ -643,7 +643,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Mallakaster"@eng-Latn ,
         "Bashkia Mallakastrës"@sqi-Latn ;
-    wdata:q7200235 "AL0504" ;
+    wdata:Q7200235 "AL0504" ;
 .
 
 <urn:mdciii:1603:16:8:2:505>
@@ -657,7 +657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Patos"@eng-Latn ,
         "Bashkia Patos"@sqi-Latn ;
-    wdata:q7200235 "AL0505" ;
+    wdata:Q7200235 "AL0505" ;
 .
 
 <urn:mdciii:1603:16:8:2:506>
@@ -671,7 +671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Roskovec"@eng-Latn ,
         "Bashkia Roskovec"@sqi-Latn ;
-    wdata:q7200235 "AL0506" ;
+    wdata:Q7200235 "AL0506" ;
 .
 
 <urn:mdciii:1603:16:8:2:601>
@@ -685,7 +685,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Dropull"@eng-Latn ,
         "Bashkia Dropull"@sqi-Latn ;
-    wdata:q7200235 "AL0601" ;
+    wdata:Q7200235 "AL0601" ;
 .
 
 <urn:mdciii:1603:16:8:2:602>
@@ -699,7 +699,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Gjirokaster"@eng-Latn ,
         "Bashkia Gjirokastër"@sqi-Latn ;
-    wdata:q7200235 "AL0602" ;
+    wdata:Q7200235 "AL0602" ;
 .
 
 <urn:mdciii:1603:16:8:2:603>
@@ -713,7 +713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kelcyre"@eng-Latn ,
         "Bashkia Këlcyrë"@sqi-Latn ;
-    wdata:q7200235 "AL0603" ;
+    wdata:Q7200235 "AL0603" ;
 .
 
 <urn:mdciii:1603:16:8:2:604>
@@ -727,7 +727,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Libohove"@eng-Latn ,
         "Bashkia Libohovë"@sqi-Latn ;
-    wdata:q7200235 "AL0604" ;
+    wdata:Q7200235 "AL0604" ;
 .
 
 <urn:mdciii:1603:16:8:2:605>
@@ -741,7 +741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Memaliaj"@eng-Latn ,
         "Bashkia Memaliaj"@sqi-Latn ;
-    wdata:q7200235 "AL0605" ;
+    wdata:Q7200235 "AL0605" ;
 .
 
 <urn:mdciii:1603:16:8:2:606>
@@ -755,7 +755,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Permet"@eng-Latn ,
         "Bashkia Përmet"@sqi-Latn ;
-    wdata:q7200235 "AL0606" ;
+    wdata:Q7200235 "AL0606" ;
 .
 
 <urn:mdciii:1603:16:8:2:607>
@@ -769,7 +769,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Tepelene"@eng-Latn ,
         "Bashkia Tepelenë"@sqi-Latn ;
-    wdata:q7200235 "AL0607" ;
+    wdata:Q7200235 "AL0607" ;
 .
 
 <urn:mdciii:1603:16:8:2:701>
@@ -783,7 +783,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Devoll"@eng-Latn ,
         "Bashkia Devollit"@sqi-Latn ;
-    wdata:q7200235 "AL0701" ;
+    wdata:Q7200235 "AL0701" ;
 .
 
 <urn:mdciii:1603:16:8:2:702>
@@ -797,7 +797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kolonje"@eng-Latn ,
         "Bashkia Kolonjës"@sqi-Latn ;
-    wdata:q7200235 "AL0702" ;
+    wdata:Q7200235 "AL0702" ;
 .
 
 <urn:mdciii:1603:16:8:2:703>
@@ -811,7 +811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Korce"@eng-Latn ,
         "Bashkia Korçë"@sqi-Latn ;
-    wdata:q7200235 "AL0703" ;
+    wdata:Q7200235 "AL0703" ;
 .
 
 <urn:mdciii:1603:16:8:2:704>
@@ -825,7 +825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Maliq"@eng-Latn ,
         "Bashkia Maliq"@sqi-Latn ;
-    wdata:q7200235 "AL0704" ;
+    wdata:Q7200235 "AL0704" ;
 .
 
 <urn:mdciii:1603:16:8:2:705>
@@ -839,7 +839,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Pogradec"@eng-Latn ,
         "Bashkia Pogradec"@sqi-Latn ;
-    wdata:q7200235 "AL0705" ;
+    wdata:Q7200235 "AL0705" ;
 .
 
 <urn:mdciii:1603:16:8:2:706>
@@ -853,7 +853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Pustec"@eng-Latn ,
         "Bashkia Pustec"@sqi-Latn ;
-    wdata:q7200235 "AL0706" ;
+    wdata:Q7200235 "AL0706" ;
 .
 
 <urn:mdciii:1603:16:8:2:801>
@@ -867,7 +867,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Krume"@eng-Latn ,
         "Bashkia Krumë"@sqi-Latn ;
-    wdata:q7200235 "AL0801" ;
+    wdata:Q7200235 "AL0801" ;
 .
 
 <urn:mdciii:1603:16:8:2:802>
@@ -881,7 +881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kukes"@eng-Latn ,
         "Bashkia Kukës"@sqi-Latn ;
-    wdata:q7200235 "AL0802" ;
+    wdata:Q7200235 "AL0802" ;
 .
 
 <urn:mdciii:1603:16:8:2:803>
@@ -895,7 +895,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Tropoje"@eng-Latn ,
         "Bashkia Topojë"@sqi-Latn ;
-    wdata:q7200235 "AL0803" ;
+    wdata:Q7200235 "AL0803" ;
 .
 
 <urn:mdciii:1603:16:8:2:901>
@@ -909,7 +909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Kurbin"@eng-Latn ,
         "Bashkia Kurbinit"@sqi-Latn ;
-    wdata:q7200235 "AL0901" ;
+    wdata:Q7200235 "AL0901" ;
 .
 
 <urn:mdciii:1603:16:8:2:902>
@@ -923,7 +923,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Lezhe"@eng-Latn ,
         "Bashkia Lezhë"@sqi-Latn ;
-    wdata:q7200235 "AL0902" ;
+    wdata:Q7200235 "AL0902" ;
 .
 
 <urn:mdciii:1603:16:8:2:903>
@@ -937,6 +937,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bashkia Mirdite"@eng-Latn ,
         "Bashkia Mirditës"@sqi-Latn ;
-    wdata:q7200235 "AL0903" ;
+    wdata:Q7200235 "AL0903" ;
 .
 
